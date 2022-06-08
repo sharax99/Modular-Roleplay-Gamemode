@@ -1,0 +1,4067 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:12:25] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:12:29] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:12:30] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:14:01] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:14:38] 
+[14:14:38] Server Plugins
+[14:14:38] --------------
+[14:14:38]  Loaded 0 plugins.
+
+[14:14:38] 
+[14:14:38] Filterscripts
+[14:14:38] ---------------
+[14:14:38]   Loading filterscript 'gl_actions.amx'...
+[14:14:38]   Unable to load filterscript 'gl_actions.amx'.
+[14:14:38]   Loading filterscript 'gl_realtime.amx'...
+[14:14:38]   Unable to load filterscript 'gl_realtime.amx'.
+[14:14:38]   Loading filterscript 'gl_property.amx'...
+[14:14:38]   Unable to load filterscript 'gl_property.amx'.
+[14:14:38]   Loading filterscript 'gl_mapicon.amx'...
+[14:14:38]   Unable to load filterscript 'gl_mapicon.amx'.
+[14:14:38]   Loading filterscript 'ls_elevator.amx'...
+[14:14:38]   Unable to load filterscript 'ls_elevator.amx'.
+[14:14:38]   Loading filterscript 'attachments.amx'...
+[14:14:38]   Unable to load filterscript 'attachments.amx'.
+[14:14:38]   Loading filterscript 'skinchanger.amx'...
+[14:14:38]   Unable to load filterscript 'skinchanger.amx'.
+[14:14:38]   Loading filterscript 'vspawner.amx'...
+[14:14:38]   Unable to load filterscript 'vspawner.amx'.
+[14:14:38]   Loading filterscript 'ls_mall.amx'...
+[14:14:38]   Unable to load filterscript 'ls_mall.amx'.
+[14:14:38]   Loading filterscript 'ls_beachside.amx'...
+[14:14:38]   Unable to load filterscript 'ls_beachside.amx'.
+[14:14:38]   Loaded 0 filterscripts.
+
+[14:14:38] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:14:38] Number of vehicle models: 0
+[14:14:57] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:15:06] filterscripts = ""  (string)
+[14:15:06] 
+[14:15:06] Server Plugins
+[14:15:06] --------------
+[14:15:06]  Loaded 0 plugins.
+
+[14:15:06] 
+[14:15:06] Filterscripts
+[14:15:06] ---------------
+[14:15:06]   Loaded 0 filterscripts.
+
+[14:15:06] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:15:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:17:03] filterscripts = ""  (string)
+[14:17:03] 
+[14:17:03] Server Plugins
+[14:17:03] --------------
+[14:17:03]  Loaded 0 plugins.
+
+[14:17:03] 
+[14:17:03] Filterscripts
+[14:17:03] ---------------
+[14:17:03]   Loaded 0 filterscripts.
+
+[14:17:04] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:17:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:20:37] filterscripts = ""  (string)
+[14:20:37] 
+[14:20:37] Server Plugins
+[14:20:37] --------------
+[14:20:37]  Loaded 0 plugins.
+
+[14:20:37] 
+[14:20:37] Filterscripts
+[14:20:37] ---------------
+[14:20:37]   Loaded 0 filterscripts.
+
+[14:20:37] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:20:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:20:40] filterscripts = ""  (string)
+[14:20:40] 
+[14:20:40] Server Plugins
+[14:20:40] --------------
+[14:20:40]  Loaded 0 plugins.
+
+[14:20:40] 
+[14:20:40] Filterscripts
+[14:20:40] ---------------
+[14:20:40]   Loaded 0 filterscripts.
+
+[14:20:40] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:20:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:22:24] filterscripts = ""  (string)
+[14:22:24] 
+[14:22:24] Server Plugins
+[14:22:24] --------------
+[14:22:24]  Loading plugin: sscanf
+[14:22:24] 
+
+[14:22:24]  ===============================
+
+[14:22:24]       sscanf plugin loaded.     
+
+[14:22:24]          Version:  2.8.2        
+
+[14:22:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:22:24]  ===============================
+
+[14:22:24]   Loaded.
+[14:22:24]  Loading plugin: streamer
+[14:22:24] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:22:24]   Loaded.
+[14:22:24]  Loaded 2 plugins.
+
+[14:22:25] 
+[14:22:25] Filterscripts
+[14:22:25] ---------------
+[14:22:25]   Loaded 0 filterscripts.
+
+[14:22:25] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:22:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:22:42] filterscripts = ""  (string)
+[14:22:42] 
+[14:22:42] Server Plugins
+[14:22:42] --------------
+[14:22:42]  Loading plugin: sscanf2
+[14:22:42]   Failed.
+[14:22:42]  Loading plugin: streamer
+[14:22:42] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:22:42]   Loaded.
+[14:22:42]  Loaded 1 plugins.
+
+[14:22:42] 
+[14:22:42] Filterscripts
+[14:22:42] ---------------
+[14:22:42]   Loaded 0 filterscripts.
+
+[14:22:42] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:22:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:23:05] filterscripts = ""  (string)
+[14:23:05] 
+[14:23:05] Server Plugins
+[14:23:05] --------------
+[14:23:05]  Loading plugin: sscanf
+[14:23:05] 
+
+[14:23:05]  ===============================
+
+[14:23:05]       sscanf plugin loaded.     
+
+[14:23:05]          Version:  2.8.2        
+
+[14:23:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:23:05]  ===============================
+
+[14:23:05]   Loaded.
+[14:23:05]  Loading plugin: streamer
+[14:23:05] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:23:05]   Loaded.
+[14:23:05]  Loading plugin: nativechecker
+[14:23:05]   Loaded.
+[14:23:05]  Loaded 3 plugins.
+
+[14:23:06] 
+[14:23:06] Filterscripts
+[14:23:06] ---------------
+[14:23:06]   Loaded 0 filterscripts.
+
+[14:23:06]    Error: Function not registered: 'mysql_query'
+[14:23:06]    Error: Function not registered: 'mysql_escape_string'
+[14:23:06]    Error: Function not registered: 'cache_insert_id'
+[14:23:06]    Error: Function not registered: 'cache_get_data'
+[14:23:06]    Error: Function not registered: 'cache_get_row_int'
+[14:23:06]    Error: Function not registered: 'cache_get_row'
+[14:23:06]    Error: Function not registered: 'cache_get_row_float'
+[14:23:06]    Error: Function not registered: 'mysql_connect'
+[14:23:06]    Error: Function not registered: 'mysql_log'
+[14:23:06]    Error: Function not registered: 'mysql_errno'
+[14:23:06]    Error: Function not registered: 'mysql_format'
+[14:23:06]    Error: Function not registered: 'cache_affected_rows'
+[14:23:06]    Error: Function not registered: 'mysql_close'
+[14:23:06]    Error: Function not registered: 'mysql_reconnect'
+[14:23:06] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:23:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:23:58] filterscripts = ""  (string)
+[14:23:58] 
+[14:23:58] Server Plugins
+[14:23:58] --------------
+[14:23:58]  Loading plugin: sscanf
+[14:23:58] 
+
+[14:23:58]  ===============================
+
+[14:23:58]       sscanf plugin loaded.     
+
+[14:23:58]          Version:  2.8.2        
+
+[14:23:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:23:58]  ===============================
+
+[14:23:58]   Loaded.
+[14:23:58]  Loading plugin: streamer
+[14:23:58] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:23:58]   Loaded.
+[14:23:58]  Loaded 2 plugins.
+
+[14:23:58] 
+[14:23:58] Filterscripts
+[14:23:58] ---------------
+[14:23:58]   Loaded 0 filterscripts.
+
+[14:23:58] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:23:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:27:41] filterscripts = ""  (string)
+[14:27:41] 
+[14:27:41] Server Plugins
+[14:27:41] --------------
+[14:27:41]  Loading plugin: streamer
+[14:27:41] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:27:41]   Loaded.
+[14:27:41]  Loading plugin: sscanf
+[14:27:41] 
+
+[14:27:41]  ===============================
+
+[14:27:41]       sscanf plugin loaded.     
+
+[14:27:41]          Version:  2.8.2        
+
+[14:27:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:27:41]  ===============================
+
+[14:27:41]   Loaded.
+[14:27:41]  Loading plugin: mysql
+[14:27:41]  >> plugin.mysql: R39-5 successfully loaded.
+[14:27:41]   Loaded.
+[14:27:41]  Loading plugin: Whirlpool
+[14:27:41]   Failed.
+[14:27:41]  Loading plugin: crashdetect.dll
+[14:27:41]   crashdetect must be loaded before streamer.DLL
+[14:27:41]   Failed.
+[14:27:41]  Loaded 3 plugins.
+
+[14:27:41] 
+[14:27:41] Filterscripts
+[14:27:41] ---------------
+[14:27:41]   Loaded 0 filterscripts.
+
+[14:27:41]  
+[14:27:41]  
+[14:27:41]  
+[14:27:41]  ======================================= 
+[14:27:41]  |                                     | 
+[14:27:41]  |        YSI version 3.09.0684        | 
+[14:27:41]  |        By Alex "Y_Less" Cole        | 
+[14:27:41]  |                                     | 
+[14:27:41]  ======================================= 
+[14:27:41]  
+[14:27:41]  
+[14:27:41]  
+[14:27:41] Loaded MySQL configuration [time: 0 ms]
+[14:27:41] [MySQL] MySQL error [time: 9 ms]
+[14:27:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:28:39] filterscripts = ""  (string)
+[14:28:39] 
+[14:28:39] Server Plugins
+[14:28:39] --------------
+[14:28:39]  Loading plugin: streamer
+[14:28:39] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:28:39]   Loaded.
+[14:28:39]  Loading plugin: sscanf
+[14:28:39] 
+
+[14:28:39]  ===============================
+
+[14:28:39]       sscanf plugin loaded.     
+
+[14:28:39]          Version:  2.8.2        
+
+[14:28:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:28:39]  ===============================
+
+[14:28:39]   Loaded.
+[14:28:39]  Loading plugin: crashdetect.dll
+[14:28:39]   crashdetect must be loaded before streamer.DLL
+[14:28:39]   Failed.
+[14:28:39]  Loaded 2 plugins.
+
+[14:28:39] 
+[14:28:39] Filterscripts
+[14:28:39] ---------------
+[14:28:39]   Loaded 0 filterscripts.
+
+[14:28:40] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:28:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:29:15] filterscripts = ""  (string)
+[14:29:15] 
+[14:29:15] Server Plugins
+[14:29:15] --------------
+[14:29:15]  Loading plugin: crashdetect.dll
+[14:29:15]   crashdetect v4.5.1 is OK.
+[14:29:15]   Loaded.
+[14:29:15]  Loading plugin: streamer
+[14:29:15] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:29:15]   Loaded.
+[14:29:15]  Loading plugin: sscanf
+[14:29:15] 
+
+[14:29:15]  ===============================
+
+[14:29:15]       sscanf plugin loaded.     
+
+[14:29:15]          Version:  2.8.2        
+
+[14:29:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:29:15]  ===============================
+
+[14:29:15]   Loaded.
+[14:29:15]  Loaded 3 plugins.
+
+[14:29:15] 
+[14:29:15] Filterscripts
+[14:29:15] ---------------
+[14:29:15]   Loaded 0 filterscripts.
+
+[14:29:15] [debug] Run time error 19: "File or function is not found"
+[14:29:15] [debug]   The following natives are not registered:
+[14:29:15] [debug]     mysql_query
+[14:29:15] [debug]     mysql_escape_string
+[14:29:15] [debug]     cache_insert_id
+[14:29:15] [debug]     cache_get_data
+[14:29:15] [debug]     cache_get_row_int
+[14:29:15] [debug]     cache_get_row
+[14:29:15] [debug]     cache_get_row_float
+[14:29:15] [debug]     mysql_connect
+[14:29:15] [debug]     mysql_log
+[14:29:15] [debug]     mysql_errno
+[14:29:15] [debug]     mysql_format
+[14:29:15] [debug]     cache_affected_rows
+[14:29:15] [debug]     mysql_close
+[14:29:15] [debug]     mysql_reconnect
+[14:29:15] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:29:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:29:55] filterscripts = ""  (string)
+[14:29:55] 
+[14:29:55] Server Plugins
+[14:29:55] --------------
+[14:29:55]  Loading plugin: crashdetect
+[14:29:55]   crashdetect v4.5.1 is OK.
+[14:29:55]   Loaded.
+[14:29:55]  Loading plugin: streamer
+[14:29:55] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:29:55]   Loaded.
+[14:29:55]  Loading plugin: sscanf
+[14:29:55] 
+
+[14:29:55]  ===============================
+
+[14:29:55]       sscanf plugin loaded.     
+
+[14:29:55]          Version:  2.8.2        
+
+[14:29:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:29:55]  ===============================
+
+[14:29:55]   Loaded.
+[14:29:55]  Loaded 3 plugins.
+
+[14:29:55] 
+[14:29:55] Filterscripts
+[14:29:55] ---------------
+[14:29:55]   Loaded 0 filterscripts.
+
+[14:29:55] [debug] Run time error 19: "File or function is not found"
+[14:29:55] [debug]   The following natives are not registered:
+[14:29:55] [debug]     mysql_query
+[14:29:55] [debug]     mysql_escape_string
+[14:29:55] [debug]     cache_insert_id
+[14:29:55] [debug]     cache_get_data
+[14:29:55] [debug]     cache_get_row_int
+[14:29:55] [debug]     cache_get_row
+[14:29:55] [debug]     cache_get_row_float
+[14:29:55] [debug]     mysql_connect
+[14:29:55] [debug]     mysql_log
+[14:29:55] [debug]     mysql_errno
+[14:29:55] [debug]     mysql_format
+[14:29:55] [debug]     cache_affected_rows
+[14:29:55] [debug]     mysql_close
+[14:29:55] [debug]     mysql_reconnect
+[14:29:55] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:29:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:33:42] filterscripts = ""  (string)
+[14:33:42] 
+[14:33:42] Server Plugins
+[14:33:42] --------------
+[14:33:42]  Loading plugin: crashdetect
+[14:33:42]   crashdetect v4.5.1 is OK.
+[14:33:42]   Loaded.
+[14:33:42]  Loading plugin: streamer
+[14:33:42] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:33:42]   Loaded.
+[14:33:42]  Loading plugin: sscanf
+[14:33:42] 
+
+[14:33:42]  ===============================
+
+[14:33:42]       sscanf plugin loaded.     
+
+[14:33:42]          Version:  2.8.2        
+
+[14:33:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:33:42]  ===============================
+
+[14:33:42]   Loaded.
+[14:33:42]  Loaded 3 plugins.
+
+[14:33:42] 
+[14:33:42] Filterscripts
+[14:33:42] ---------------
+[14:33:42]   Loaded 0 filterscripts.
+
+[14:33:42] [debug] Run time error 19: "File or function is not found"
+[14:33:42] [debug]   The following natives are not registered:
+[14:33:42] [debug]     mysql_query
+[14:33:42] [debug]     mysql_escape_string
+[14:33:42] [debug]     cache_insert_id
+[14:33:42] [debug]     cache_get_data
+[14:33:42] [debug]     cache_get_row_int
+[14:33:42] [debug]     cache_get_row
+[14:33:42] [debug]     cache_get_row_float
+[14:33:42] [debug]     mysql_connect
+[14:33:42] [debug]     mysql_log
+[14:33:42] [debug]     mysql_errno
+[14:33:42] [debug]     mysql_format
+[14:33:42] [debug]     cache_affected_rows
+[14:33:42] [debug]     mysql_close
+[14:33:42] [debug]     mysql_reconnect
+[14:33:42] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[14:33:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:33:59] filterscripts = ""  (string)
+[14:33:59] 
+[14:33:59] Server Plugins
+[14:33:59] --------------
+[14:33:59]  Loading plugin: crashdetect
+[14:33:59]   crashdetect v4.5.1 is OK.
+[14:33:59]   Loaded.
+[14:33:59]  Loading plugin: streamer
+[14:33:59] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:33:59]   Loaded.
+[14:33:59]  Loading plugin: sscanf
+[14:33:59] 
+
+[14:33:59]  ===============================
+
+[14:33:59]       sscanf plugin loaded.     
+
+[14:33:59]          Version:  2.8.2        
+
+[14:33:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:33:59]  ===============================
+
+[14:33:59]   Loaded.
+[14:33:59]  Loading plugin: mysql.dll
+[14:33:59]  >> plugin.mysql: R39-5 successfully loaded.
+[14:33:59]   Loaded.
+[14:33:59]  Loaded 4 plugins.
+
+[14:33:59] 
+[14:33:59] Filterscripts
+[14:33:59] ---------------
+[14:33:59]   Loaded 0 filterscripts.
+
+[14:33:59]  
+[14:33:59]  
+[14:33:59]  
+[14:33:59]  ======================================= 
+[14:33:59]  |                                     | 
+[14:33:59]  |        YSI version 3.09.0684        | 
+[14:33:59]  |        By Alex "Y_Less" Cole        | 
+[14:33:59]  |                                     | 
+[14:33:59]  ======================================= 
+[14:33:59]  
+[14:33:59]  
+[14:33:59]  
+[14:33:59] Loaded MySQL configuration [time: 0 ms]
+[14:33:59] [MySQL] MySQL error [time: 1 ms]
+[14:33:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:34:56] filterscripts = ""  (string)
+[14:34:56] 
+[14:34:56] Server Plugins
+[14:34:56] --------------
+[14:34:56]  Loading plugin: crashdetect
+[14:34:56]   crashdetect v4.5.1 is OK.
+[14:34:56]   Loaded.
+[14:34:56]  Loading plugin: streamer
+[14:34:56] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:34:56]   Loaded.
+[14:34:56]  Loading plugin: sscanf
+[14:34:56] 
+
+[14:34:56]  ===============================
+
+[14:34:56]       sscanf plugin loaded.     
+
+[14:34:56]          Version:  2.8.2        
+
+[14:34:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:34:56]  ===============================
+
+[14:34:56]   Loaded.
+[14:34:56]  Loading plugin: mysql.dll
+[14:34:56]  >> plugin.mysql: R39-5 successfully loaded.
+[14:34:56]   Loaded.
+[14:34:56]  Loaded 4 plugins.
+
+[14:34:57] 
+[14:34:57] Filterscripts
+[14:34:57] ---------------
+[14:34:57]   Loaded 0 filterscripts.
+
+[14:34:57]  
+[14:34:57]  
+[14:34:57]  
+[14:34:57]  ======================================= 
+[14:34:57]  |                                     | 
+[14:34:57]  |        YSI version 3.09.0684        | 
+[14:34:57]  |        By Alex "Y_Less" Cole        | 
+[14:34:57]  |                                     | 
+[14:34:57]  ======================================= 
+[14:34:57]  
+[14:34:57]  
+[14:34:57]  
+[14:34:57] Loaded MySQL configuration [time: 0 ms]
+[14:34:57] [MySQL] MySQL error [time: 1 ms]
+[14:34:57] Number of vehicle models: 0
+[14:37:10] [connection] 127.0.0.1:61509 requests connection cookie.
+[14:37:11] [connection] incoming connection: 127.0.0.1:61509 id: 0
+[14:37:11] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
+[14:37:11] [join] Ganter_Nguyen has joined the server (0:127.0.0.1)
+[14:37:29] [DIAL] Ganter Nguyen (UID: 0, GID: 0): [] (0, 3, 1)
+[14:37:29] [part] Ganter_Nguyen has left the server (0:2)
+[14:39:55] [connection] 127.0.0.1:61281 requests connection cookie.
+[14:39:56] [connection] incoming connection: 127.0.0.1:61281 id: 0
+[14:39:56] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
+[14:39:57] [join] Ricardo_Calderone has joined the server (0:127.0.0.1)
+[14:40:09] [DIAL] Ricardo Calderone (UID: 0, GID: 0): [] (0, 3, 1)
+[14:40:09] [part] Ricardo_Calderone has left the server (0:2)
+[14:46:14] [connection] 127.0.0.1:50260 requests connection cookie.
+[14:46:15] [connection] incoming connection: 127.0.0.1:50260 id: 0
+[14:46:15] [debug] Run time error 20: "Invalid index parameter (bad entry point)"
+[14:46:15] [join] Ricardo_Calderone has joined the server (0:127.0.0.1)
+[14:46:21] [DIAL] Ricardo Calderone (UID: 0, GID: 0): [] (0, 3, 1)
+[14:46:21] [part] Ricardo_Calderone has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:46:37] filterscripts = ""  (string)
+[14:46:37] 
+[14:46:37] Server Plugins
+[14:46:37] --------------
+[14:46:37]  Loading plugin: crashdetect
+[14:46:37]   crashdetect v4.5.1 is OK.
+[14:46:37]   Loaded.
+[14:46:37]  Loading plugin: streamer
+[14:46:37] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:46:37]   Loaded.
+[14:46:37]  Loading plugin: sscanf
+[14:46:37] 
+
+[14:46:37]  ===============================
+
+[14:46:37]       sscanf plugin loaded.     
+
+[14:46:37]          Version:  2.8.2        
+
+[14:46:37]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:46:37]  ===============================
+
+[14:46:37]   Loaded.
+[14:46:37]  Loading plugin: mysql.dll
+[14:46:37]  >> plugin.mysql: R39-5 successfully loaded.
+[14:46:37]   Loaded.
+[14:46:37]  Loaded 4 plugins.
+
+[14:46:37] 
+[14:46:37] Filterscripts
+[14:46:37] ---------------
+[14:46:37]   Loaded 0 filterscripts.
+
+[14:46:37]  
+[14:46:37]  
+[14:46:37]  
+[14:46:37]  ======================================= 
+[14:46:37]  |                                     | 
+[14:46:37]  |        YSI version 3.09.0684        | 
+[14:46:37]  |        By Alex "Y_Less" Cole        | 
+[14:46:37]  |                                     | 
+[14:46:37]  ======================================= 
+[14:46:37]  
+[14:46:37]  
+[14:46:37]  
+[14:46:37] Loaded MySQL configuration [time: 1 ms]
+[14:46:37] [MySQL] MySQL error [time: 0 ms]
+[14:46:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:54:20] filterscripts = ""  (string)
+[14:54:20] 
+[14:54:20] Server Plugins
+[14:54:20] --------------
+[14:54:20]  Loading plugin: crashdetect
+[14:54:20]   crashdetect v4.5.1 is OK.
+[14:54:20]   Loaded.
+[14:54:20]  Loading plugin: streamer
+[14:54:20] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:54:20]   Loaded.
+[14:54:20]  Loading plugin: sscanf
+[14:54:20] 
+
+[14:54:20]  ===============================
+
+[14:54:20]       sscanf plugin loaded.     
+
+[14:54:20]          Version:  2.8.2        
+
+[14:54:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:54:20]  ===============================
+
+[14:54:20]   Loaded.
+[14:54:20]  Loading plugin: mysql.dll
+[14:54:20]  >> plugin.mysql: R39-5 successfully loaded.
+[14:54:20]   Loaded.
+[14:54:20]  Loaded 4 plugins.
+
+[14:54:20] 
+[14:54:20] Filterscripts
+[14:54:20] ---------------
+[14:54:20]   Loaded 0 filterscripts.
+
+[14:54:20]  
+[14:54:20]  
+[14:54:20]  
+[14:54:20]  ======================================= 
+[14:54:20]  |                                     | 
+[14:54:20]  |        YSI version 3.09.0684        | 
+[14:54:20]  |        By Alex "Y_Less" Cole        | 
+[14:54:20]  |                                     | 
+[14:54:20]  ======================================= 
+[14:54:20]  
+[14:54:20]  
+[14:54:20]  
+[14:54:20] Loaded MySQL configuration [time: 0 ms]
+[14:54:20] [MySQL] MySQL error [time: 1 ms]
+[14:54:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:54:59] filterscripts = ""  (string)
+[14:54:59] 
+[14:54:59] Server Plugins
+[14:54:59] --------------
+[14:54:59]  Loading plugin: crashdetect
+[14:54:59]   crashdetect v4.5.1 is OK.
+[14:54:59]   Loaded.
+[14:54:59]  Loading plugin: streamer
+[14:54:59] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:54:59]   Loaded.
+[14:54:59]  Loading plugin: sscanf
+[14:54:59] 
+
+[14:54:59]  ===============================
+
+[14:54:59]       sscanf plugin loaded.     
+
+[14:54:59]          Version:  2.8.2        
+
+[14:54:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:54:59]  ===============================
+
+[14:54:59]   Loaded.
+[14:54:59]  Loading plugin: mysql.dll
+[14:54:59]  >> plugin.mysql: R39-5 successfully loaded.
+[14:54:59]   Loaded.
+[14:54:59]  Loaded 4 plugins.
+
+[14:54:59] 
+[14:54:59] Filterscripts
+[14:54:59] ---------------
+[14:54:59]   Loaded 0 filterscripts.
+
+[14:54:59]  
+[14:54:59]  
+[14:54:59]  
+[14:54:59]  ======================================= 
+[14:54:59]  |                                     | 
+[14:54:59]  |        YSI version 3.09.0684        | 
+[14:54:59]  |        By Alex "Y_Less" Cole        | 
+[14:54:59]  |                                     | 
+[14:54:59]  ======================================= 
+[14:54:59]  
+[14:54:59]  
+[14:54:59]  
+[14:54:59] Loaded MySQL configuration [time: 1 ms]
+[14:54:59] [MySQL] MySQL error [time: 2 ms]
+[14:54:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:55:32] filterscripts = ""  (string)
+[14:55:32] 
+[14:55:32] Server Plugins
+[14:55:32] --------------
+[14:55:32]  Loading plugin: crashdetect
+[14:55:32]   crashdetect v4.5.1 is OK.
+[14:55:32]   Loaded.
+[14:55:32]  Loading plugin: streamer
+[14:55:32] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[14:55:32]   Loaded.
+[14:55:32]  Loading plugin: sscanf
+[14:55:32] 
+
+[14:55:32]  ===============================
+
+[14:55:32]       sscanf plugin loaded.     
+
+[14:55:32]          Version:  2.8.2        
+
+[14:55:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:55:32]  ===============================
+
+[14:55:32]   Loaded.
+[14:55:32]  Loading plugin: mysql.dll
+[14:55:32]  >> plugin.mysql: R39-5 successfully loaded.
+[14:55:32]   Loaded.
+[14:55:32]  Loaded 4 plugins.
+
+[14:55:32] 
+[14:55:32] Filterscripts
+[14:55:32] ---------------
+[14:55:32]   Loaded 0 filterscripts.
+
+[14:55:32]  
+[14:55:32]  
+[14:55:32]  
+[14:55:32]  ======================================= 
+[14:55:32]  |                                     | 
+[14:55:32]  |        YSI version 3.09.0684        | 
+[14:55:32]  |        By Alex "Y_Less" Cole        | 
+[14:55:32]  |                                     | 
+[14:55:32]  ======================================= 
+[14:55:32]  
+[14:55:32]  
+[14:55:32]  
+[14:55:32] Loaded MySQL configuration [time: 0 ms]
+[14:55:32] [MySQL] MySQL error [time: 1 ms]
+[14:55:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:02:03] filterscripts = ""  (string)
+[15:02:03] 
+[15:02:03] Server Plugins
+[15:02:03] --------------
+[15:02:03]  Loading plugin: crashdetect
+[15:02:03]   crashdetect v4.5.1 is OK.
+[15:02:03]   Loaded.
+[15:02:03]  Loading plugin: streamer
+[15:02:03] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:02:03]   Loaded.
+[15:02:03]  Loading plugin: sscanf
+[15:02:03] 
+
+[15:02:03]  ===============================
+
+[15:02:03]       sscanf plugin loaded.     
+
+[15:02:03]          Version:  2.8.2        
+
+[15:02:03]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:02:03]  ===============================
+
+[15:02:03]   Loaded.
+[15:02:03]  Loading plugin: mysql.dll
+[15:02:03]  >> plugin.mysql: R39-5 successfully loaded.
+[15:02:03]   Loaded.
+[15:02:03]  Loaded 4 plugins.
+
+[15:02:03] 
+[15:02:03] Filterscripts
+[15:02:03] ---------------
+[15:02:03]   Loaded 0 filterscripts.
+
+[15:02:03]  
+[15:02:03]  
+[15:02:03]  
+[15:02:03]  ======================================= 
+[15:02:03]  |                                     | 
+[15:02:03]  |        YSI version 3.09.0684        | 
+[15:02:03]  |        By Alex "Y_Less" Cole        | 
+[15:02:03]  |                                     | 
+[15:02:03]  ======================================= 
+[15:02:03]  
+[15:02:03]  
+[15:02:03]  
+[15:02:03] Loaded MySQL configuration [time: 0 ms]
+[15:02:03] [MySQL] MySQL error [time: 1 ms]
+[15:02:03] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:02:07] filterscripts = ""  (string)
+[15:02:07] 
+[15:02:07] Server Plugins
+[15:02:07] --------------
+[15:02:07]  Loading plugin: crashdetect
+[15:02:07]   crashdetect v4.5.1 is OK.
+[15:02:07]   Loaded.
+[15:02:07]  Loading plugin: streamer
+[15:02:07] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:02:07]   Loaded.
+[15:02:07]  Loading plugin: sscanf
+[15:02:07] 
+
+[15:02:07]  ===============================
+
+[15:02:07]       sscanf plugin loaded.     
+
+[15:02:07]          Version:  2.8.2        
+
+[15:02:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:02:07]  ===============================
+
+[15:02:07]   Loaded.
+[15:02:07]  Loading plugin: mysql.dll
+[15:02:07]  >> plugin.mysql: R39-5 successfully loaded.
+[15:02:07]   Loaded.
+[15:02:07]  Loaded 4 plugins.
+
+[15:02:07] 
+[15:02:07] Filterscripts
+[15:02:07] ---------------
+[15:02:07]   Loaded 0 filterscripts.
+
+[15:02:07]  
+[15:02:07]  
+[15:02:07]  
+[15:02:07]  ======================================= 
+[15:02:07]  |                                     | 
+[15:02:07]  |        YSI version 3.09.0684        | 
+[15:02:07]  |        By Alex "Y_Less" Cole        | 
+[15:02:07]  |                                     | 
+[15:02:07]  ======================================= 
+[15:02:07]  
+[15:02:07]  
+[15:02:07]  
+[15:02:07] Loaded MySQL configuration [time: 0 ms]
+[15:02:07] [MySQL] MySQL error [time: 1 ms]
+[15:02:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:03:56] filterscripts = ""  (string)
+[15:03:56] 
+[15:03:56] Server Plugins
+[15:03:56] --------------
+[15:03:56]  Loading plugin: crashdetect
+[15:03:56]   crashdetect v4.5.1 is OK.
+[15:03:56]   Loaded.
+[15:03:56]  Loading plugin: streamer
+[15:03:56] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:03:56]   Loaded.
+[15:03:56]  Loading plugin: sscanf
+[15:03:56] 
+
+[15:03:56]  ===============================
+
+[15:03:56]       sscanf plugin loaded.     
+
+[15:03:56]          Version:  2.8.2        
+
+[15:03:56]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:03:56]  ===============================
+
+[15:03:56]   Loaded.
+[15:03:56]  Loading plugin: mysql.dll
+[15:03:56]  >> plugin.mysql: R39-5 successfully loaded.
+[15:03:56]   Loaded.
+[15:03:56]  Loaded 4 plugins.
+
+[15:03:56] 
+[15:03:56] Filterscripts
+[15:03:56] ---------------
+[15:03:56]   Loaded 0 filterscripts.
+
+[15:03:56]  
+[15:03:56]  
+[15:03:56]  
+[15:03:56]  ======================================= 
+[15:03:56]  |                                     | 
+[15:03:56]  |        YSI version 3.09.0684        | 
+[15:03:56]  |        By Alex "Y_Less" Cole        | 
+[15:03:56]  |                                     | 
+[15:03:56]  ======================================= 
+[15:03:56]  
+[15:03:56]  
+[15:03:56]  
+[15:03:56] Loaded MySQL configuration [time: 0 ms]
+[15:03:56] [MySQL] MySQL error [time: 1 ms]
+[15:03:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:04:02] filterscripts = ""  (string)
+[15:04:02] 
+[15:04:02] Server Plugins
+[15:04:02] --------------
+[15:04:02]  Loading plugin: crashdetect
+[15:04:02]   crashdetect v4.5.1 is OK.
+[15:04:02]   Loaded.
+[15:04:02]  Loading plugin: streamer
+[15:04:02] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:04:02]   Loaded.
+[15:04:02]  Loading plugin: sscanf
+[15:04:02] 
+
+[15:04:02]  ===============================
+
+[15:04:02]       sscanf plugin loaded.     
+
+[15:04:02]          Version:  2.8.2        
+
+[15:04:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:04:02]  ===============================
+
+[15:04:02]   Loaded.
+[15:04:02]  Loading plugin: mysql.dll
+[15:04:02]  >> plugin.mysql: R39-5 successfully loaded.
+[15:04:02]   Loaded.
+[15:04:02]  Loaded 4 plugins.
+
+[15:04:02] 
+[15:04:02] Filterscripts
+[15:04:02] ---------------
+[15:04:02]   Loaded 0 filterscripts.
+
+[15:04:02]  
+[15:04:02]  
+[15:04:02]  
+[15:04:02]  ======================================= 
+[15:04:02]  |                                     | 
+[15:04:02]  |        YSI version 3.09.0684        | 
+[15:04:02]  |        By Alex "Y_Less" Cole        | 
+[15:04:02]  |                                     | 
+[15:04:02]  ======================================= 
+[15:04:02]  
+[15:04:02]  
+[15:04:02]  
+[15:04:02] Loaded MySQL configuration [time: 1 ms]
+[15:04:02] [MySQL] MySQL error [time: 1 ms]
+[15:04:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:04:07] filterscripts = ""  (string)
+[15:04:07] 
+[15:04:07] Server Plugins
+[15:04:07] --------------
+[15:04:07]  Loading plugin: crashdetect
+[15:04:07]   crashdetect v4.5.1 is OK.
+[15:04:07]   Loaded.
+[15:04:07]  Loading plugin: streamer
+[15:04:07] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:04:07]   Loaded.
+[15:04:07]  Loading plugin: sscanf
+[15:04:07] 
+
+[15:04:07]  ===============================
+
+[15:04:07]       sscanf plugin loaded.     
+
+[15:04:07]          Version:  2.8.2        
+
+[15:04:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:04:07]  ===============================
+
+[15:04:07]   Loaded.
+[15:04:07]  Loading plugin: mysql.dll
+[15:04:07]  >> plugin.mysql: R39-5 successfully loaded.
+[15:04:07]   Loaded.
+[15:04:07]  Loaded 4 plugins.
+
+[15:04:07] 
+[15:04:07] Filterscripts
+[15:04:07] ---------------
+[15:04:07]   Loaded 0 filterscripts.
+
+[15:04:07]  
+[15:04:07]  
+[15:04:07]  
+[15:04:07]  ======================================= 
+[15:04:07]  |                                     | 
+[15:04:07]  |        YSI version 3.09.0684        | 
+[15:04:07]  |        By Alex "Y_Less" Cole        | 
+[15:04:07]  |                                     | 
+[15:04:07]  ======================================= 
+[15:04:07]  
+[15:04:07]  
+[15:04:07]  
+[15:04:07] Loaded MySQL configuration [time: 0 ms]
+[15:04:07] [MySQL] MySQL error [time: 1 ms]
+[15:04:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:05:30] filterscripts = ""  (string)
+[15:05:30] 
+[15:05:30] Server Plugins
+[15:05:30] --------------
+[15:05:30]  Loading plugin: crashdetect
+[15:05:30]   crashdetect v4.5.1 is OK.
+[15:05:30]   Loaded.
+[15:05:30]  Loading plugin: streamer
+[15:05:30] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:05:30]   Loaded.
+[15:05:30]  Loading plugin: sscanf
+[15:05:30] 
+
+[15:05:30]  ===============================
+
+[15:05:30]       sscanf plugin loaded.     
+
+[15:05:30]          Version:  2.8.2        
+
+[15:05:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:05:30]  ===============================
+
+[15:05:30]   Loaded.
+[15:05:30]  Loading plugin: mysql.dll
+[15:05:30]  >> plugin.mysql: R39-5 successfully loaded.
+[15:05:30]   Loaded.
+[15:05:30]  Loaded 4 plugins.
+
+[15:05:30] 
+[15:05:30] Filterscripts
+[15:05:30] ---------------
+[15:05:30]   Loaded 0 filterscripts.
+
+[15:05:30]  
+[15:05:30]  
+[15:05:30]  
+[15:05:30]  ======================================= 
+[15:05:30]  |                                     | 
+[15:05:30]  |        YSI version 3.09.0684        | 
+[15:05:30]  |        By Alex "Y_Less" Cole        | 
+[15:05:30]  |                                     | 
+[15:05:30]  ======================================= 
+[15:05:30]  
+[15:05:30]  
+[15:05:30]  
+[15:05:30] Loaded MySQL configuration [time: 1 ms]
+[15:05:30] [MySQL] MySQL error [time: 1 ms]
+[15:05:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:05:48] filterscripts = ""  (string)
+[15:05:48] 
+[15:05:48] Server Plugins
+[15:05:48] --------------
+[15:05:48]  Loading plugin: crashdetect
+[15:05:48]   crashdetect v4.5.1 is OK.
+[15:05:48]   Loaded.
+[15:05:48]  Loading plugin: streamer
+[15:05:48] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:05:48]   Loaded.
+[15:05:48]  Loading plugin: sscanf
+[15:05:48] 
+
+[15:05:48]  ===============================
+
+[15:05:48]       sscanf plugin loaded.     
+
+[15:05:48]          Version:  2.8.2        
+
+[15:05:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:05:48]  ===============================
+
+[15:05:48]   Loaded.
+[15:05:48]  Loading plugin: mysql.dll
+[15:05:48]  >> plugin.mysql: R39-5 successfully loaded.
+[15:05:48]   Loaded.
+[15:05:48]  Loaded 4 plugins.
+
+[15:05:48] 
+[15:05:48] Filterscripts
+[15:05:48] ---------------
+[15:05:48]   Loaded 0 filterscripts.
+
+[15:05:48]  
+[15:05:48]  
+[15:05:48]  
+[15:05:48]  ======================================= 
+[15:05:48]  |                                     | 
+[15:05:48]  |        YSI version 3.09.0684        | 
+[15:05:48]  |        By Alex "Y_Less" Cole        | 
+[15:05:48]  |                                     | 
+[15:05:48]  ======================================= 
+[15:05:48]  
+[15:05:48]  
+[15:05:48]  
+[15:05:48] Loaded MySQL configuration [time: 0 ms]
+[15:05:48] [MySQL] MySQL error [time: 1 ms]
+[15:05:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:07:18] filterscripts = ""  (string)
+[15:07:18] 
+[15:07:18] Server Plugins
+[15:07:18] --------------
+[15:07:18]  Loading plugin: crashdetect
+[15:07:18]   crashdetect v4.5.1 is OK.
+[15:07:18]   Loaded.
+[15:07:18]  Loading plugin: streamer
+[15:07:18] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:07:18]   Loaded.
+[15:07:18]  Loading plugin: sscanf
+[15:07:18] 
+
+[15:07:18]  ===============================
+
+[15:07:18]       sscanf plugin loaded.     
+
+[15:07:18]          Version:  2.8.2        
+
+[15:07:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:07:18]  ===============================
+
+[15:07:18]   Loaded.
+[15:07:18]  Loading plugin: mysql.dll
+[15:07:18]  >> plugin.mysql: R39-5 successfully loaded.
+[15:07:18]   Loaded.
+[15:07:18]  Loaded 4 plugins.
+
+[15:07:18] 
+[15:07:18] Filterscripts
+[15:07:18] ---------------
+[15:07:18]   Loaded 0 filterscripts.
+
+[15:07:18]  
+[15:07:18]  
+[15:07:18]  
+[15:07:18]  ======================================= 
+[15:07:18]  |                                     | 
+[15:07:18]  |        YSI version 3.09.0684        | 
+[15:07:18]  |        By Alex "Y_Less" Cole        | 
+[15:07:18]  |                                     | 
+[15:07:18]  ======================================= 
+[15:07:18]  
+[15:07:18]  
+[15:07:18]  
+[15:07:18] Loaded MySQL configuration [time: 1 ms]
+[15:07:18] [MySQL] MySQL error [time: 1 ms]
+[15:07:18] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:11:05] filterscripts = ""  (string)
+[15:11:05] 
+[15:11:05] Server Plugins
+[15:11:05] --------------
+[15:11:05]  Loading plugin: crashdetect
+[15:11:05]   crashdetect v4.5.1 is OK.
+[15:11:05]   Loaded.
+[15:11:05]  Loading plugin: streamer
+[15:11:05] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:11:05]   Loaded.
+[15:11:05]  Loading plugin: sscanf
+[15:11:05] 
+
+[15:11:05]  ===============================
+
+[15:11:05]       sscanf plugin loaded.     
+
+[15:11:05]          Version:  2.8.2        
+
+[15:11:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:11:05]  ===============================
+
+[15:11:05]   Loaded.
+[15:11:05]  Loading plugin: mysql.dll
+[15:11:05]  >> plugin.mysql: R39-5 successfully loaded.
+[15:11:05]   Loaded.
+[15:11:05]  Loaded 4 plugins.
+
+[15:11:05] 
+[15:11:05] Filterscripts
+[15:11:05] ---------------
+[15:11:05]   Loaded 0 filterscripts.
+
+[15:11:05]  
+[15:11:05]  
+[15:11:05]  
+[15:11:05]  ======================================= 
+[15:11:05]  |                                     | 
+[15:11:05]  |        YSI version 3.09.0684        | 
+[15:11:05]  |        By Alex "Y_Less" Cole        | 
+[15:11:05]  |                                     | 
+[15:11:05]  ======================================= 
+[15:11:05]  
+[15:11:05]  
+[15:11:05]  
+[15:11:05] Loaded MySQL configuration [time: 0 ms]
+[15:11:05] [MySQL] MySQL error [time: 1 ms]
+[15:11:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:11:24] filterscripts = ""  (string)
+[15:11:24] 
+[15:11:24] Server Plugins
+[15:11:24] --------------
+[15:11:24]  Loading plugin: crashdetect
+[15:11:24]   crashdetect v4.5.1 is OK.
+[15:11:24]   Loaded.
+[15:11:24]  Loading plugin: streamer
+[15:11:24] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:11:24]   Loaded.
+[15:11:24]  Loading plugin: sscanf
+[15:11:24] 
+
+[15:11:24]  ===============================
+
+[15:11:24]       sscanf plugin loaded.     
+
+[15:11:24]          Version:  2.8.2        
+
+[15:11:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:11:24]  ===============================
+
+[15:11:24]   Loaded.
+[15:11:24]  Loading plugin: mysql.dll
+[15:11:24]  >> plugin.mysql: R39-5 successfully loaded.
+[15:11:24]   Loaded.
+[15:11:24]  Loaded 4 plugins.
+
+[15:11:24] 
+[15:11:24] Filterscripts
+[15:11:24] ---------------
+[15:11:24]   Loaded 0 filterscripts.
+
+[15:11:24]  
+[15:11:24]  
+[15:11:24]  
+[15:11:24]  ======================================= 
+[15:11:24]  |                                     | 
+[15:11:24]  |        YSI version 3.09.0684        | 
+[15:11:24]  |        By Alex "Y_Less" Cole        | 
+[15:11:24]  |                                     | 
+[15:11:24]  ======================================= 
+[15:11:24]  
+[15:11:24]  
+[15:11:24]  
+[15:11:25] Loaded MySQL configuration [time: 1 ms]
+[15:11:25] [MySQL] MySQL error [time: 0 ms]
+[15:11:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:11:28] filterscripts = ""  (string)
+[15:11:28] 
+[15:11:28] Server Plugins
+[15:11:28] --------------
+[15:11:28]  Loading plugin: crashdetect
+[15:11:28]   crashdetect v4.5.1 is OK.
+[15:11:28]   Loaded.
+[15:11:28]  Loading plugin: streamer
+[15:11:28] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:11:28]   Loaded.
+[15:11:28]  Loading plugin: sscanf
+[15:11:28] 
+
+[15:11:28]  ===============================
+
+[15:11:28]       sscanf plugin loaded.     
+
+[15:11:28]          Version:  2.8.2        
+
+[15:11:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:11:28]  ===============================
+
+[15:11:28]   Loaded.
+[15:11:28]  Loading plugin: mysql.dll
+[15:11:28]  >> plugin.mysql: R39-5 successfully loaded.
+[15:11:28]   Loaded.
+[15:11:28]  Loaded 4 plugins.
+
+[15:11:28] 
+[15:11:28] Filterscripts
+[15:11:28] ---------------
+[15:11:28]   Loaded 0 filterscripts.
+
+[15:11:29]  
+[15:11:29]  
+[15:11:29]  
+[15:11:29]  ======================================= 
+[15:11:29]  |                                     | 
+[15:11:29]  |        YSI version 3.09.0684        | 
+[15:11:29]  |        By Alex "Y_Less" Cole        | 
+[15:11:29]  |                                     | 
+[15:11:29]  ======================================= 
+[15:11:29]  
+[15:11:29]  
+[15:11:29]  
+[15:11:29] Loaded MySQL configuration [time: 0 ms]
+[15:11:29] [MySQL] MySQL error [time: 1 ms]
+[15:11:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:11:46] filterscripts = ""  (string)
+[15:11:46] 
+[15:11:46] Server Plugins
+[15:11:46] --------------
+[15:11:46]  Loading plugin: crashdetect
+[15:11:46]   crashdetect v4.5.1 is OK.
+[15:11:46]   Loaded.
+[15:11:46]  Loading plugin: streamer
+[15:11:46] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:11:46]   Loaded.
+[15:11:46]  Loading plugin: sscanf
+[15:11:46] 
+
+[15:11:46]  ===============================
+
+[15:11:46]       sscanf plugin loaded.     
+
+[15:11:46]          Version:  2.8.2        
+
+[15:11:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:11:46]  ===============================
+
+[15:11:46]   Loaded.
+[15:11:46]  Loading plugin: mysql.dll
+[15:11:46]  >> plugin.mysql: R39-5 successfully loaded.
+[15:11:46]   Loaded.
+[15:11:46]  Loaded 4 plugins.
+
+[15:11:46] 
+[15:11:46] Filterscripts
+[15:11:46] ---------------
+[15:11:46]   Loaded 0 filterscripts.
+
+[15:11:46]  
+[15:11:46]  
+[15:11:46]  
+[15:11:46]  ======================================= 
+[15:11:46]  |                                     | 
+[15:11:46]  |        YSI version 3.09.0684        | 
+[15:11:46]  |        By Alex "Y_Less" Cole        | 
+[15:11:46]  |                                     | 
+[15:11:46]  ======================================= 
+[15:11:46]  
+[15:11:46]  
+[15:11:46]  
+[15:11:46] Loaded MySQL configuration [time: 0 ms]
+[15:11:46] [MySQL] MySQL error [time: 1 ms]
+[15:11:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:14:52] filterscripts = ""  (string)
+[15:14:52] 
+[15:14:52] Server Plugins
+[15:14:52] --------------
+[15:14:52]  Loading plugin: crashdetect
+[15:14:52]   crashdetect v4.5.1 is OK.
+[15:14:52]   Loaded.
+[15:14:52]  Loading plugin: streamer
+[15:14:52] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:14:52]   Loaded.
+[15:14:52]  Loading plugin: sscanf
+[15:14:52] 
+
+[15:14:52]  ===============================
+
+[15:14:52]       sscanf plugin loaded.     
+
+[15:14:52]          Version:  2.8.2        
+
+[15:14:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:14:52]  ===============================
+
+[15:14:52]   Loaded.
+[15:14:52]  Loading plugin: mysql.dll
+[15:14:52]  >> plugin.mysql: R39-5 successfully loaded.
+[15:14:52]   Loaded.
+[15:14:52]  Loaded 4 plugins.
+
+[15:14:52] 
+[15:14:52] Filterscripts
+[15:14:52] ---------------
+[15:14:52]   Loaded 0 filterscripts.
+
+[15:14:52]  
+[15:14:52]  
+[15:14:52]  
+[15:14:52]  ======================================= 
+[15:14:52]  |                                     | 
+[15:14:52]  |        YSI version 3.09.0684        | 
+[15:14:52]  |        By Alex "Y_Less" Cole        | 
+[15:14:52]  |                                     | 
+[15:14:52]  ======================================= 
+[15:14:52]  
+[15:14:52]  
+[15:14:52]  
+[15:14:52] Loaded MySQL configuration [time: 0 ms]
+[15:14:52] [MySQL] MySQL error [time: 1 ms]
+[15:14:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:17:27] filterscripts = ""  (string)
+[15:17:27] 
+[15:17:27] Server Plugins
+[15:17:27] --------------
+[15:17:27]  Loading plugin: crashdetect
+[15:17:27]   crashdetect v4.5.1 is OK.
+[15:17:27]   Loaded.
+[15:17:27]  Loading plugin: streamer
+[15:17:27] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:17:27]   Loaded.
+[15:17:27]  Loading plugin: sscanf
+[15:17:27] 
+
+[15:17:27]  ===============================
+
+[15:17:27]       sscanf plugin loaded.     
+
+[15:17:27]          Version:  2.8.2        
+
+[15:17:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:17:27]  ===============================
+
+[15:17:27]   Loaded.
+[15:17:27]  Loading plugin: mysql.dll
+[15:17:27]  >> plugin.mysql: R39-5 successfully loaded.
+[15:17:27]   Loaded.
+[15:17:27]  Loaded 4 plugins.
+
+[15:17:27] 
+[15:17:27] Filterscripts
+[15:17:27] ---------------
+[15:17:27]   Loaded 0 filterscripts.
+
+[15:17:27]  
+[15:17:27]  
+[15:17:27]  
+[15:17:27]  ======================================= 
+[15:17:27]  |                                     | 
+[15:17:27]  |        YSI version 3.09.0684        | 
+[15:17:27]  |        By Alex "Y_Less" Cole        | 
+[15:17:27]  |                                     | 
+[15:17:27]  ======================================= 
+[15:17:27]  
+[15:17:27]  
+[15:17:27]  
+[15:17:27] Loaded MySQL configuration [time: 0 ms]
+[15:17:27] [MySQL] MySQL error [time: 1 ms]
+[15:17:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:21:24] filterscripts = ""  (string)
+[15:21:24] 
+[15:21:24] Server Plugins
+[15:21:24] --------------
+[15:21:24]  Loading plugin: crashdetect
+[15:21:24]   crashdetect v4.5.1 is OK.
+[15:21:24]   Loaded.
+[15:21:24]  Loading plugin: streamer
+[15:21:24] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:21:24]   Loaded.
+[15:21:24]  Loading plugin: sscanf
+[15:21:24] 
+
+[15:21:24]  ===============================
+
+[15:21:24]       sscanf plugin loaded.     
+
+[15:21:24]          Version:  2.8.2        
+
+[15:21:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:21:24]  ===============================
+
+[15:21:24]   Loaded.
+[15:21:24]  Loading plugin: mysql.dll
+[15:21:24]  >> plugin.mysql: R39-5 successfully loaded.
+[15:21:24]   Loaded.
+[15:21:24]  Loaded 4 plugins.
+
+[15:21:24] 
+[15:21:24] Filterscripts
+[15:21:24] ---------------
+[15:21:24]   Loaded 0 filterscripts.
+
+[15:21:24]  
+[15:21:24]  
+[15:21:24]  
+[15:21:24]  ======================================= 
+[15:21:24]  |                                     | 
+[15:21:24]  |        YSI version 3.09.0684        | 
+[15:21:24]  |        By Alex "Y_Less" Cole        | 
+[15:21:24]  |                                     | 
+[15:21:24]  ======================================= 
+[15:21:24]  
+[15:21:24]  
+[15:21:24]  
+[15:21:24] Loaded MySQL configuration [time: 0 ms]
+[15:21:24] [MySQL] MySQL error [time: 1 ms]
+[15:21:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:22:24] filterscripts = ""  (string)
+[15:22:24] 
+[15:22:24] Server Plugins
+[15:22:24] --------------
+[15:22:24]  Loading plugin: crashdetect
+[15:22:24]   crashdetect v4.5.1 is OK.
+[15:22:24]   Loaded.
+[15:22:24]  Loading plugin: streamer
+[15:22:24] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:22:24]   Loaded.
+[15:22:24]  Loading plugin: sscanf
+[15:22:24] 
+
+[15:22:24]  ===============================
+
+[15:22:24]       sscanf plugin loaded.     
+
+[15:22:24]          Version:  2.8.2        
+
+[15:22:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:22:24]  ===============================
+
+[15:22:24]   Loaded.
+[15:22:24]  Loading plugin: mysql.dll
+[15:22:24]  >> plugin.mysql: R39-5 successfully loaded.
+[15:22:24]   Loaded.
+[15:22:24]  Loaded 4 plugins.
+
+[15:22:24] 
+[15:22:24] Filterscripts
+[15:22:24] ---------------
+[15:22:24]   Loaded 0 filterscripts.
+
+[15:22:24]  
+[15:22:24]  
+[15:22:24]  
+[15:22:24]  ======================================= 
+[15:22:24]  |                                     | 
+[15:22:24]  |        YSI version 3.09.0684        | 
+[15:22:24]  |        By Alex "Y_Less" Cole        | 
+[15:22:24]  |                                     | 
+[15:22:24]  ======================================= 
+[15:22:24]  
+[15:22:24]  
+[15:22:24]  
+[15:22:24] Loaded MySQL configuration [time: 0 ms]
+[15:22:24] [MySQL] MySQL error [time: 1 ms]
+[15:22:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:22:44] filterscripts = ""  (string)
+[15:22:44] 
+[15:22:44] Server Plugins
+[15:22:44] --------------
+[15:22:44]  Loading plugin: crashdetect
+[15:22:44]   crashdetect v4.5.1 is OK.
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: streamer
+[15:22:44] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: sscanf
+[15:22:44] 
+
+[15:22:44]  ===============================
+
+[15:22:44]       sscanf plugin loaded.     
+
+[15:22:44]          Version:  2.8.2        
+
+[15:22:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:22:44]  ===============================
+
+[15:22:44]   Loaded.
+[15:22:44]  Loading plugin: mysql.dll
+[15:22:44]  >> plugin.mysql: R39-5 successfully loaded.
+[15:22:44]   Loaded.
+[15:22:44]  Loaded 4 plugins.
+
+[15:22:44] 
+[15:22:44] Filterscripts
+[15:22:44] ---------------
+[15:22:44]   Loaded 0 filterscripts.
+
+[15:22:44]  
+[15:22:44]  
+[15:22:44]  
+[15:22:44]  ======================================= 
+[15:22:44]  |                                     | 
+[15:22:44]  |        YSI version 3.09.0684        | 
+[15:22:44]  |        By Alex "Y_Less" Cole        | 
+[15:22:44]  |                                     | 
+[15:22:44]  ======================================= 
+[15:22:44]  
+[15:22:44]  
+[15:22:44]  
+[15:22:44] Loaded MySQL configuration [time: 0 ms]
+[15:22:44] [MySQL] MySQL error [time: 1 ms]
+[15:22:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:24:58] filterscripts = ""  (string)
+[15:24:58] 
+[15:24:58] Server Plugins
+[15:24:58] --------------
+[15:24:58]  Loading plugin: crashdetect
+[15:24:58]   crashdetect v4.5.1 is OK.
+[15:24:58]   Loaded.
+[15:24:58]  Loading plugin: streamer
+[15:24:58] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:24:58]   Loaded.
+[15:24:58]  Loading plugin: sscanf
+[15:24:58] 
+
+[15:24:58]  ===============================
+
+[15:24:58]       sscanf plugin loaded.     
+
+[15:24:58]          Version:  2.8.2        
+
+[15:24:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:24:58]  ===============================
+
+[15:24:58]   Loaded.
+[15:24:58]  Loading plugin: mysql
+[15:24:58]  >> plugin.mysql: R39-5 successfully loaded.
+[15:24:58]   Loaded.
+[15:24:58]  Loaded 4 plugins.
+
+[15:24:58] 
+[15:24:58] Filterscripts
+[15:24:58] ---------------
+[15:24:58]   Loaded 0 filterscripts.
+
+[15:24:58]  
+[15:24:58]  
+[15:24:58]  
+[15:24:58]  ======================================= 
+[15:24:58]  |                                     | 
+[15:24:58]  |        YSI version 3.09.0684        | 
+[15:24:58]  |        By Alex "Y_Less" Cole        | 
+[15:24:58]  |                                     | 
+[15:24:58]  ======================================= 
+[15:24:58]  
+[15:24:58]  
+[15:24:58]  
+[15:24:58] Loaded MySQL configuration [time: 0 ms]
+[15:24:58] [MySQL] MySQL error [time: 1 ms]
+[15:24:58] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:05] filterscripts = ""  (string)
+[15:25:05] 
+[15:25:05] Server Plugins
+[15:25:05] --------------
+[15:25:05]  Loading plugin: crashdetect
+[15:25:05]   crashdetect v4.5.1 is OK.
+[15:25:05]   Loaded.
+[15:25:05]  Loading plugin: streamer
+[15:25:05] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:25:05]   Loaded.
+[15:25:05]  Loading plugin: sscanf
+[15:25:05] 
+
+[15:25:05]  ===============================
+
+[15:25:05]       sscanf plugin loaded.     
+
+[15:25:05]          Version:  2.8.2        
+
+[15:25:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:25:05]  ===============================
+
+[15:25:05]   Loaded.
+[15:25:05]  Loaded 3 plugins.
+
+[15:25:05] 
+[15:25:05] Filterscripts
+[15:25:05] ---------------
+[15:25:05]   Loaded 0 filterscripts.
+
+[15:25:05] [debug] Run time error 19: "File or function is not found"
+[15:25:05] [debug]   The following natives are not registered:
+[15:25:05] [debug]     mysql_query
+[15:25:05] [debug]     mysql_escape_string
+[15:25:05] [debug]     cache_insert_id
+[15:25:05] [debug]     cache_get_data
+[15:25:05] [debug]     cache_get_row_int
+[15:25:05] [debug]     cache_get_row
+[15:25:05] [debug]     cache_get_row_float
+[15:25:05] [debug]     mysql_connect
+[15:25:05] [debug]     mysql_log
+[15:25:05] [debug]     mysql_errno
+[15:25:05] [debug]     mysql_format
+[15:25:05] [debug]     cache_affected_rows
+[15:25:05] [debug]     mysql_close
+[15:25:05] [debug]     mysql_reconnect
+[15:25:05] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[15:25:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:25:16] filterscripts = ""  (string)
+[15:25:16] 
+[15:25:16] Server Plugins
+[15:25:16] --------------
+[15:25:16]  Loading plugin: crashdetect
+[15:25:16]   crashdetect v4.5.1 is OK.
+[15:25:16]   Loaded.
+[15:25:16]  Loading plugin: streamer
+[15:25:16] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:25:16]   Loaded.
+[15:25:16]  Loading plugin: sscanf
+[15:25:16] 
+
+[15:25:16]  ===============================
+
+[15:25:16]       sscanf plugin loaded.     
+
+[15:25:16]          Version:  2.8.2        
+
+[15:25:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:25:16]  ===============================
+
+[15:25:16]   Loaded.
+[15:25:16]  Loading plugin: mysql.dll
+[15:25:16]  >> plugin.mysql: R39-5 successfully loaded.
+[15:25:16]   Loaded.
+[15:25:16]  Loaded 4 plugins.
+
+[15:25:16] 
+[15:25:16] Filterscripts
+[15:25:16] ---------------
+[15:25:16]   Loaded 0 filterscripts.
+
+[15:25:16]  
+[15:25:16]  
+[15:25:16]  
+[15:25:16]  ======================================= 
+[15:25:16]  |                                     | 
+[15:25:16]  |        YSI version 3.09.0684        | 
+[15:25:16]  |        By Alex "Y_Less" Cole        | 
+[15:25:16]  |                                     | 
+[15:25:16]  ======================================= 
+[15:25:16]  
+[15:25:16]  
+[15:25:16]  
+[15:25:16] Loaded MySQL configuration [time: 0 ms]
+[15:25:16] [MySQL] MySQL error [time: 1 ms]
+[15:25:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:30:13] filterscripts = ""  (string)
+[15:30:13] 
+[15:30:13] Server Plugins
+[15:30:13] --------------
+[15:30:13]  Loading plugin: crashdetect
+[15:30:13]   crashdetect v4.5.1 is OK.
+[15:30:13]   Loaded.
+[15:30:13]  Loading plugin: streamer
+[15:30:13] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:30:13]   Loaded.
+[15:30:13]  Loading plugin: sscanf
+[15:30:13] 
+
+[15:30:13]  ===============================
+
+[15:30:13]       sscanf plugin loaded.     
+
+[15:30:13]          Version:  2.8.2        
+
+[15:30:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:30:13]  ===============================
+
+[15:30:13]   Loaded.
+[15:30:13]  Loading plugin: mysql.dll
+[15:30:13]  >> plugin.mysql: R39-5 successfully loaded.
+[15:30:13]   Loaded.
+[15:30:13]  Loaded 4 plugins.
+
+[15:30:13] 
+[15:30:13] Filterscripts
+[15:30:13] ---------------
+[15:30:13]   Loaded 0 filterscripts.
+
+[15:30:13]  
+[15:30:13]  
+[15:30:13]  
+[15:30:13]  ======================================= 
+[15:30:13]  |                                     | 
+[15:30:13]  |        YSI version 3.09.0684        | 
+[15:30:13]  |        By Alex "Y_Less" Cole        | 
+[15:30:13]  |                                     | 
+[15:30:13]  ======================================= 
+[15:30:13]  
+[15:30:13]  
+[15:30:13]  
+[15:30:13] Loaded MySQL configuration [time: 1 ms]
+[15:30:14] [MySQL] MySQL error [time: 1 ms]
+[15:30:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:30:35] filterscripts = ""  (string)
+[15:30:35] 
+[15:30:35] Server Plugins
+[15:30:35] --------------
+[15:30:35]  Loading plugin: crashdetect
+[15:30:35]   crashdetect v4.5.1 is OK.
+[15:30:35]   Loaded.
+[15:30:35]  Loading plugin: streamer
+[15:30:35] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:30:35]   Loaded.
+[15:30:35]  Loading plugin: sscanf
+[15:30:35] 
+
+[15:30:35]  ===============================
+
+[15:30:35]       sscanf plugin loaded.     
+
+[15:30:35]          Version:  2.8.2        
+
+[15:30:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:30:35]  ===============================
+
+[15:30:35]   Loaded.
+[15:30:35]  Loading plugin: mysql.dll
+[15:30:35]  >> plugin.mysql: R39-5 successfully loaded.
+[15:30:35]   Loaded.
+[15:30:35]  Loaded 4 plugins.
+
+[15:30:35] 
+[15:30:35] Filterscripts
+[15:30:35] ---------------
+[15:30:35]   Loaded 0 filterscripts.
+
+[15:30:35]  
+[15:30:35]  
+[15:30:35]  
+[15:30:35]  ======================================= 
+[15:30:35]  |                                     | 
+[15:30:35]  |        YSI version 3.09.0684        | 
+[15:30:35]  |        By Alex "Y_Less" Cole        | 
+[15:30:35]  |                                     | 
+[15:30:35]  ======================================= 
+[15:30:35]  
+[15:30:35]  
+[15:30:35]  
+[15:30:35] Loaded MySQL configuration [time: 0 ms]
+[15:30:35] [MySQL] MySQL error [time: 1 ms]
+[15:30:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:32:07] filterscripts = ""  (string)
+[15:32:07] 
+[15:32:07] Server Plugins
+[15:32:07] --------------
+[15:32:07]  Loading plugin: crashdetect
+[15:32:07]   crashdetect v4.5.1 is OK.
+[15:32:07]   Loaded.
+[15:32:07]  Loading plugin: streamer
+[15:32:07] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:32:07]   Loaded.
+[15:32:07]  Loading plugin: sscanf
+[15:32:07] 
+
+[15:32:07]  ===============================
+
+[15:32:07]       sscanf plugin loaded.     
+
+[15:32:07]          Version:  2.8.2        
+
+[15:32:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:32:07]  ===============================
+
+[15:32:07]   Loaded.
+[15:32:07]  Loading plugin: mysql.dll
+[15:32:07]  >> plugin.mysql: R39-5 successfully loaded.
+[15:32:07]   Loaded.
+[15:32:07]  Loaded 4 plugins.
+
+[15:32:07] 
+[15:32:07] Filterscripts
+[15:32:07] ---------------
+[15:32:07]   Loaded 0 filterscripts.
+
+[15:32:07]  
+[15:32:07]  
+[15:32:07]  
+[15:32:07]  ======================================= 
+[15:32:07]  |                                     | 
+[15:32:07]  |        YSI version 3.09.0684        | 
+[15:32:07]  |        By Alex "Y_Less" Cole        | 
+[15:32:07]  |                                     | 
+[15:32:07]  ======================================= 
+[15:32:07]  
+[15:32:07]  
+[15:32:07]  
+[15:32:07] Loaded MySQL configuration [time: 1 ms]
+[15:32:07] [MySQL] MySQL error [time: 0 ms]
+[15:32:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:36:29] filterscripts = ""  (string)
+[15:36:29] 
+[15:36:29] Server Plugins
+[15:36:29] --------------
+[15:36:29]  Loading plugin: crashdetect
+[15:36:29]   crashdetect v4.5.1 is OK.
+[15:36:29]   Loaded.
+[15:36:29]  Loading plugin: streamer
+[15:36:29] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:36:29]   Loaded.
+[15:36:29]  Loading plugin: sscanf
+[15:36:29] 
+
+[15:36:29]  ===============================
+
+[15:36:29]       sscanf plugin loaded.     
+
+[15:36:29]          Version:  2.8.2        
+
+[15:36:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:36:29]  ===============================
+
+[15:36:29]   Loaded.
+[15:36:29]  Loading plugin: mysql.dll
+[15:36:29]  >> plugin.mysql: R39-5 successfully loaded.
+[15:36:29]   Loaded.
+[15:36:29]  Loaded 4 plugins.
+
+[15:36:29] 
+[15:36:29] Filterscripts
+[15:36:29] ---------------
+[15:36:29]   Loaded 0 filterscripts.
+
+[15:36:29]  
+[15:36:29]  
+[15:36:29]  
+[15:36:29]  ======================================= 
+[15:36:29]  |                                     | 
+[15:36:29]  |        YSI version 3.09.0684        | 
+[15:36:29]  |        By Alex "Y_Less" Cole        | 
+[15:36:29]  |                                     | 
+[15:36:29]  ======================================= 
+[15:36:29]  
+[15:36:29]  
+[15:36:29]  
+[15:36:29] Loaded MySQL configuration [time: 0 ms]
+[15:36:29] [MySQL] MySQL error [time: 0 ms]
+[15:36:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:37:15] filterscripts = ""  (string)
+[15:37:15] 
+[15:37:15] Server Plugins
+[15:37:15] --------------
+[15:37:15]  Loading plugin: crashdetect
+[15:37:15]   crashdetect v4.5.1 is OK.
+[15:37:15]   Loaded.
+[15:37:15]  Loading plugin: streamer
+[15:37:15] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:37:15]   Loaded.
+[15:37:15]  Loading plugin: sscanf
+[15:37:15] 
+
+[15:37:15]  ===============================
+
+[15:37:15]       sscanf plugin loaded.     
+
+[15:37:15]          Version:  2.8.2        
+
+[15:37:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:37:15]  ===============================
+
+[15:37:15]   Loaded.
+[15:37:15]  Loading plugin: mysql.dll
+[15:37:15]  >> plugin.mysql: R39-5 successfully loaded.
+[15:37:15]   Loaded.
+[15:37:15]  Loaded 4 plugins.
+
+[15:37:15] 
+[15:37:15] Filterscripts
+[15:37:15] ---------------
+[15:37:15]   Loaded 0 filterscripts.
+
+[15:37:16]  
+[15:37:16]  
+[15:37:16]  
+[15:37:16]  ======================================= 
+[15:37:16]  |                                     | 
+[15:37:16]  |        YSI version 3.09.0684        | 
+[15:37:16]  |        By Alex "Y_Less" Cole        | 
+[15:37:16]  |                                     | 
+[15:37:16]  ======================================= 
+[15:37:16]  
+[15:37:16]  
+[15:37:16]  
+[15:37:16] Loaded MySQL configuration [time: 0 ms]
+[15:37:16] [MySQL] MySQL error [time: 0 ms]
+[15:37:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:37:48] filterscripts = ""  (string)
+[15:37:48] 
+[15:37:48] Server Plugins
+[15:37:48] --------------
+[15:37:48]  Loading plugin: crashdetect
+[15:37:48]   crashdetect v4.5.1 is OK.
+[15:37:48]   Loaded.
+[15:37:48]  Loading plugin: streamer
+[15:37:48] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:37:48]   Loaded.
+[15:37:48]  Loading plugin: sscanf
+[15:37:48] 
+
+[15:37:48]  ===============================
+
+[15:37:48]       sscanf plugin loaded.     
+
+[15:37:48]          Version:  2.8.2        
+
+[15:37:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:37:48]  ===============================
+
+[15:37:48]   Loaded.
+[15:37:48]  Loading plugin: mysql.dll
+[15:37:48]  >> plugin.mysql: R39-5 successfully loaded.
+[15:37:48]   Loaded.
+[15:37:48]  Loaded 4 plugins.
+
+[15:37:48] 
+[15:37:48] Filterscripts
+[15:37:48] ---------------
+[15:37:48]   Loaded 0 filterscripts.
+
+[15:37:48]  
+[15:37:48]  
+[15:37:48]  
+[15:37:48]  ======================================= 
+[15:37:48]  |                                     | 
+[15:37:48]  |        YSI version 3.09.0684        | 
+[15:37:48]  |        By Alex "Y_Less" Cole        | 
+[15:37:48]  |                                     | 
+[15:37:48]  ======================================= 
+[15:37:48]  
+[15:37:48]  
+[15:37:48]  
+[15:37:48] Loaded MySQL configuration [time: 0 ms]
+[15:37:48] [MySQL] MySQL error [time: 1 ms]
+[15:37:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:40:00] filterscripts = ""  (string)
+[15:40:00] 
+[15:40:00] Server Plugins
+[15:40:00] --------------
+[15:40:00]  Loading plugin: crashdetect
+[15:40:00]   crashdetect v4.5.1 is OK.
+[15:40:00]   Loaded.
+[15:40:00]  Loading plugin: streamer
+[15:40:00] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:40:00]   Loaded.
+[15:40:00]  Loading plugin: sscanf
+[15:40:00] 
+
+[15:40:00]  ===============================
+
+[15:40:00]       sscanf plugin loaded.     
+
+[15:40:00]          Version:  2.8.2        
+
+[15:40:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:40:00]  ===============================
+
+[15:40:00]   Loaded.
+[15:40:00]  Loading plugin: mysql.dll
+[15:40:00]  >> plugin.mysql: R39-5 successfully loaded.
+[15:40:00]   Loaded.
+[15:40:00]  Loaded 4 plugins.
+
+[15:40:00] 
+[15:40:00] Filterscripts
+[15:40:00] ---------------
+[15:40:00]   Loaded 0 filterscripts.
+
+[15:40:00]  
+[15:40:00]  
+[15:40:00]  
+[15:40:00]  ======================================= 
+[15:40:00]  |                                     | 
+[15:40:00]  |        YSI version 3.09.0684        | 
+[15:40:00]  |        By Alex "Y_Less" Cole        | 
+[15:40:00]  |                                     | 
+[15:40:00]  ======================================= 
+[15:40:00]  
+[15:40:00]  
+[15:40:00]  
+[15:40:00] Loaded MySQL configuration [time: 0 ms]
+[15:40:00] [MySQL] MySQL error [time: 1 ms]
+[15:40:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:40:15] filterscripts = ""  (string)
+[15:40:15] 
+[15:40:15] Server Plugins
+[15:40:15] --------------
+[15:40:15]  Loading plugin: crashdetect
+[15:40:15]   crashdetect v4.5.1 is OK.
+[15:40:15]   Loaded.
+[15:40:15]  Loading plugin: streamer
+[15:40:15] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:40:15]   Loaded.
+[15:40:15]  Loading plugin: sscanf
+[15:40:15] 
+
+[15:40:15]  ===============================
+
+[15:40:15]       sscanf plugin loaded.     
+
+[15:40:15]          Version:  2.8.2        
+
+[15:40:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:40:15]  ===============================
+
+[15:40:15]   Loaded.
+[15:40:15]  Loading plugin: mysql.dll
+[15:40:15]  >> plugin.mysql: R39-5 successfully loaded.
+[15:40:15]   Loaded.
+[15:40:15]  Loaded 4 plugins.
+
+[15:40:15] 
+[15:40:15] Filterscripts
+[15:40:15] ---------------
+[15:40:15]   Loaded 0 filterscripts.
+
+[15:40:15]  
+[15:40:15]  
+[15:40:15]  
+[15:40:15]  ======================================= 
+[15:40:15]  |                                     | 
+[15:40:15]  |        YSI version 3.09.0684        | 
+[15:40:15]  |        By Alex "Y_Less" Cole        | 
+[15:40:15]  |                                     | 
+[15:40:15]  ======================================= 
+[15:40:15]  
+[15:40:15]  
+[15:40:15]  
+[15:40:15] Loaded MySQL configuration [time: 0 ms]
+[15:40:15] [MySQL] MySQL error [time: 1 ms]
+[15:40:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:40:53] filterscripts = ""  (string)
+[15:40:53] 
+[15:40:53] Server Plugins
+[15:40:53] --------------
+[15:40:53]  Loading plugin: crashdetect
+[15:40:53]   crashdetect v4.5.1 is OK.
+[15:40:53]   Loaded.
+[15:40:53]  Loading plugin: streamer
+[15:40:53] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:40:53]   Loaded.
+[15:40:53]  Loading plugin: sscanf
+[15:40:53] 
+
+[15:40:53]  ===============================
+
+[15:40:53]       sscanf plugin loaded.     
+
+[15:40:53]          Version:  2.8.2        
+
+[15:40:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:40:53]  ===============================
+
+[15:40:53]   Loaded.
+[15:40:53]  Loading plugin: mysql.dll
+[15:40:53]  >> plugin.mysql: R39-5 successfully loaded.
+[15:40:53]   Loaded.
+[15:40:53]  Loaded 4 plugins.
+
+[15:40:53] 
+[15:40:53] Filterscripts
+[15:40:53] ---------------
+[15:40:53]   Loaded 0 filterscripts.
+
+[15:40:53]  
+[15:40:53]  
+[15:40:53]  
+[15:40:53]  ======================================= 
+[15:40:53]  |                                     | 
+[15:40:53]  |        YSI version 3.09.0684        | 
+[15:40:53]  |        By Alex "Y_Less" Cole        | 
+[15:40:53]  |                                     | 
+[15:40:53]  ======================================= 
+[15:40:53]  
+[15:40:53]  
+[15:40:53]  
+[15:40:53] Loaded MySQL configuration [time: 0 ms]
+[15:40:53] [MySQL] MySQL error [time: 1 ms]
+[15:40:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:44:48] filterscripts = ""  (string)
+[15:44:48] 
+[15:44:48] Server Plugins
+[15:44:48] --------------
+[15:44:48]  Loading plugin: crashdetect
+[15:44:48]   crashdetect v4.5.1 is OK.
+[15:44:48]   Loaded.
+[15:44:48]  Loading plugin: streamer
+[15:44:48] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:44:48]   Loaded.
+[15:44:48]  Loading plugin: sscanf
+[15:44:48] 
+
+[15:44:48]  ===============================
+
+[15:44:48]       sscanf plugin loaded.     
+
+[15:44:48]          Version:  2.8.2        
+
+[15:44:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:44:48]  ===============================
+
+[15:44:48]   Loaded.
+[15:44:48]  Loading plugin: mysql.dll
+[15:44:48]  >> plugin.mysql: R39-5 successfully loaded.
+[15:44:48]   Loaded.
+[15:44:48]  Loaded 4 plugins.
+
+[15:44:48] 
+[15:44:48] Filterscripts
+[15:44:48] ---------------
+[15:44:48]   Loaded 0 filterscripts.
+
+[15:44:48]  
+[15:44:48]  
+[15:44:48]  
+[15:44:48]  ======================================= 
+[15:44:48]  |                                     | 
+[15:44:48]  |        YSI version 3.09.0684        | 
+[15:44:48]  |        By Alex "Y_Less" Cole        | 
+[15:44:48]  |                                     | 
+[15:44:48]  ======================================= 
+[15:44:48]  
+[15:44:48]  
+[15:44:48]  
+[15:44:48] Loaded MySQL configuration [time: 1 ms]
+[15:44:48] [MySQL] MySQL error [time: 1 ms]
+[15:44:48] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:45:41] filterscripts = ""  (string)
+[15:45:41] 
+[15:45:41] Server Plugins
+[15:45:41] --------------
+[15:45:41]  Loading plugin: crashdetect
+[15:45:41]   crashdetect v4.5.1 is OK.
+[15:45:41]   Loaded.
+[15:45:41]  Loading plugin: streamer
+[15:45:41] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:45:41]   Loaded.
+[15:45:41]  Loading plugin: sscanf
+[15:45:41] 
+
+[15:45:41]  ===============================
+
+[15:45:41]       sscanf plugin loaded.     
+
+[15:45:41]          Version:  2.8.2        
+
+[15:45:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:45:41]  ===============================
+
+[15:45:41]   Loaded.
+[15:45:41]  Loading plugin: mysql.dll
+[15:45:41]  >> plugin.mysql: R39-5 successfully loaded.
+[15:45:41]   Loaded.
+[15:45:41]  Loaded 4 plugins.
+
+[15:45:41] 
+[15:45:41] Filterscripts
+[15:45:41] ---------------
+[15:45:41]   Loaded 0 filterscripts.
+
+[15:45:41]  
+[15:45:41]  
+[15:45:41]  
+[15:45:41]  ======================================= 
+[15:45:41]  |                                     | 
+[15:45:41]  |        YSI version 3.09.0684        | 
+[15:45:41]  |        By Alex "Y_Less" Cole        | 
+[15:45:41]  |                                     | 
+[15:45:41]  ======================================= 
+[15:45:41]  
+[15:45:41]  
+[15:45:41]  
+[15:45:41] Loaded MySQL configuration [time: 0 ms]
+[15:45:41] [MySQL] MySQL error [time: 1 ms]
+[15:45:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:55:29] filterscripts = ""  (string)
+[15:55:29] 
+[15:55:29] Server Plugins
+[15:55:29] --------------
+[15:55:29]  Loading plugin: crashdetect
+[15:55:29]   crashdetect v4.5.1 is OK.
+[15:55:29]   Loaded.
+[15:55:29]  Loading plugin: streamer
+[15:55:29] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:55:29]   Loaded.
+[15:55:29]  Loading plugin: sscanf
+[15:55:29] 
+
+[15:55:29]  ===============================
+
+[15:55:29]       sscanf plugin loaded.     
+
+[15:55:29]          Version:  2.8.2        
+
+[15:55:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:55:29]  ===============================
+
+[15:55:29]   Loaded.
+[15:55:29]  Loading plugin: mysql.dll
+[15:55:29]  >> plugin.mysql: R39-5 successfully loaded.
+[15:55:29]   Loaded.
+[15:55:29]  Loaded 4 plugins.
+
+[15:55:29] 
+[15:55:29] Filterscripts
+[15:55:29] ---------------
+[15:55:29]   Loaded 0 filterscripts.
+
+[15:55:29]  
+[15:55:29]  
+[15:55:29]  
+[15:55:29]  ======================================= 
+[15:55:29]  |                                     | 
+[15:55:29]  |        YSI version 3.09.0684        | 
+[15:55:29]  |        By Alex "Y_Less" Cole        | 
+[15:55:29]  |                                     | 
+[15:55:29]  ======================================= 
+[15:55:29]  
+[15:55:29]  
+[15:55:29]  
+[15:55:29] Loaded MySQL configuration [time: 1 ms]
+[15:55:29] [MySQL] MySQL error [time: 1 ms]
+[15:55:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:56:14] filterscripts = ""  (string)
+[15:56:14] 
+[15:56:14] Server Plugins
+[15:56:14] --------------
+[15:56:14]  Loading plugin: crashdetect
+[15:56:14]   crashdetect v4.5.1 is OK.
+[15:56:14]   Loaded.
+[15:56:14]  Loading plugin: streamer
+[15:56:14] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:56:14]   Loaded.
+[15:56:14]  Loading plugin: sscanf
+[15:56:14] 
+
+[15:56:14]  ===============================
+
+[15:56:14]       sscanf plugin loaded.     
+
+[15:56:14]          Version:  2.8.2        
+
+[15:56:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:56:14]  ===============================
+
+[15:56:14]   Loaded.
+[15:56:14]  Loading plugin: mysql.dll
+[15:56:14]  >> plugin.mysql: R39-5 successfully loaded.
+[15:56:14]   Loaded.
+[15:56:14]  Loaded 4 plugins.
+
+[15:56:14] 
+[15:56:14] Filterscripts
+[15:56:14] ---------------
+[15:56:14]   Loaded 0 filterscripts.
+
+[15:56:14]  
+[15:56:14]  
+[15:56:14]  
+[15:56:14]  ======================================= 
+[15:56:14]  |                                     | 
+[15:56:14]  |        YSI version 3.09.0684        | 
+[15:56:14]  |        By Alex "Y_Less" Cole        | 
+[15:56:14]  |                                     | 
+[15:56:14]  ======================================= 
+[15:56:14]  
+[15:56:14]  
+[15:56:14]  
+[15:56:14] Loaded MySQL configuration [time: 1 ms]
+[15:56:14] [MySQL] MySQL error [time: 1 ms]
+[15:56:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:56:26] filterscripts = ""  (string)
+[15:56:26] 
+[15:56:26] Server Plugins
+[15:56:26] --------------
+[15:56:26]  Loading plugin: crashdetect
+[15:56:26]   crashdetect v4.5.1 is OK.
+[15:56:26]   Loaded.
+[15:56:26]  Loading plugin: streamer
+[15:56:26] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:56:26]   Loaded.
+[15:56:26]  Loading plugin: sscanf
+[15:56:26] 
+
+[15:56:26]  ===============================
+
+[15:56:26]       sscanf plugin loaded.     
+
+[15:56:26]          Version:  2.8.2        
+
+[15:56:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:56:26]  ===============================
+
+[15:56:26]   Loaded.
+[15:56:26]  Loading plugin: mysql.dll
+[15:56:26]  >> plugin.mysql: R39-5 successfully loaded.
+[15:56:26]   Loaded.
+[15:56:26]  Loaded 4 plugins.
+
+[15:56:26] 
+[15:56:26] Filterscripts
+[15:56:26] ---------------
+[15:56:26]   Loaded 0 filterscripts.
+
+[15:56:26]  
+[15:56:26]  
+[15:56:26]  
+[15:56:26]  ======================================= 
+[15:56:26]  |                                     | 
+[15:56:26]  |        YSI version 3.09.0684        | 
+[15:56:26]  |        By Alex "Y_Less" Cole        | 
+[15:56:26]  |                                     | 
+[15:56:26]  ======================================= 
+[15:56:26]  
+[15:56:26]  
+[15:56:26]  
+[15:56:26] Loaded MySQL configuration [time: 1 ms]
+[15:56:26] [MySQL] MySQL error [time: 0 ms]
+[15:56:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:57:36] filterscripts = ""  (string)
+[15:57:36] 
+[15:57:36] Server Plugins
+[15:57:36] --------------
+[15:57:36]  Loading plugin: crashdetect
+[15:57:36]   crashdetect v4.5.1 is OK.
+[15:57:36]   Loaded.
+[15:57:36]  Loading plugin: streamer
+[15:57:36] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:57:36]   Loaded.
+[15:57:36]  Loading plugin: sscanf
+[15:57:36] 
+
+[15:57:36]  ===============================
+
+[15:57:36]       sscanf plugin loaded.     
+
+[15:57:36]          Version:  2.8.2        
+
+[15:57:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:57:36]  ===============================
+
+[15:57:36]   Loaded.
+[15:57:36]  Loaded 3 plugins.
+
+[15:57:36] 
+[15:57:36] Filterscripts
+[15:57:36] ---------------
+[15:57:36]   Loaded 0 filterscripts.
+
+[15:57:36] [debug] Run time error 19: "File or function is not found"
+[15:57:36] [debug]   The following natives are not registered:
+[15:57:36] [debug]     mysql_query
+[15:57:36] [debug]     mysql_escape_string
+[15:57:36] [debug]     cache_insert_id
+[15:57:36] [debug]     cache_get_data
+[15:57:36] [debug]     cache_get_row_int
+[15:57:36] [debug]     cache_get_row
+[15:57:36] [debug]     cache_get_row_float
+[15:57:36] [debug]     mysql_connect
+[15:57:36] [debug]     mysql_log
+[15:57:36] [debug]     mysql_errno
+[15:57:36] [debug]     mysql_format
+[15:57:36] [debug]     cache_affected_rows
+[15:57:36] [debug]     mysql_close
+[15:57:36] [debug]     mysql_reconnect
+[15:57:36] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[15:57:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:59:27] filterscripts = ""  (string)
+[15:59:27] 
+[15:59:27] Server Plugins
+[15:59:27] --------------
+[15:59:27]  Loading plugin: crashdetect
+[15:59:27]   crashdetect v4.5.1 is OK.
+[15:59:27]   Loaded.
+[15:59:27]  Loading plugin: streamer
+[15:59:27] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:59:27]   Loaded.
+[15:59:27]  Loading plugin: sscanf
+[15:59:27] 
+
+[15:59:27]  ===============================
+
+[15:59:27]       sscanf plugin loaded.     
+
+[15:59:27]          Version:  2.8.2        
+
+[15:59:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:59:27]  ===============================
+
+[15:59:27]   Loaded.
+[15:59:27]  Loaded 3 plugins.
+
+[15:59:27] 
+[15:59:27] Filterscripts
+[15:59:27] ---------------
+[15:59:27]   Loaded 0 filterscripts.
+
+[15:59:27] [debug] Run time error 19: "File or function is not found"
+[15:59:27] [debug]   The following natives are not registered:
+[15:59:27] [debug]     mysql_query
+[15:59:27] [debug]     mysql_escape_string
+[15:59:27] [debug]     cache_insert_id
+[15:59:27] [debug]     cache_get_data
+[15:59:27] [debug]     cache_get_row_int
+[15:59:27] [debug]     cache_get_row
+[15:59:27] [debug]     cache_get_row_float
+[15:59:27] [debug]     mysql_connect
+[15:59:27] [debug]     mysql_log
+[15:59:27] [debug]     mysql_errno
+[15:59:27] [debug]     mysql_format
+[15:59:27] [debug]     cache_affected_rows
+[15:59:27] [debug]     mysql_close
+[15:59:27] [debug]     mysql_reconnect
+[15:59:27] Script[gamemodes/rp.amx]: Run time error 19: "File or function is not found"
+[15:59:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:59:35] filterscripts = ""  (string)
+[15:59:35] 
+[15:59:35] Server Plugins
+[15:59:35] --------------
+[15:59:35]  Loading plugin: crashdetect
+[15:59:35]   crashdetect v4.5.1 is OK.
+[15:59:35]   Loaded.
+[15:59:35]  Loading plugin: streamer
+[15:59:35] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:59:35]   Loaded.
+[15:59:35]  Loading plugin: sscanf
+[15:59:35] 
+
+[15:59:35]  ===============================
+
+[15:59:35]       sscanf plugin loaded.     
+
+[15:59:35]          Version:  2.8.2        
+
+[15:59:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:59:35]  ===============================
+
+[15:59:35]   Loaded.
+[15:59:35]  Loading plugin: mysql.dll
+[15:59:35]  >> plugin.mysql: R39-5 successfully loaded.
+[15:59:35]   Loaded.
+[15:59:35]  Loaded 4 plugins.
+
+[15:59:35] 
+[15:59:35] Filterscripts
+[15:59:35] ---------------
+[15:59:35]   Loaded 0 filterscripts.
+
+[15:59:35]  
+[15:59:35]  
+[15:59:35]  
+[15:59:35]  ======================================= 
+[15:59:35]  |                                     | 
+[15:59:35]  |        YSI version 3.09.0684        | 
+[15:59:35]  |        By Alex "Y_Less" Cole        | 
+[15:59:35]  |                                     | 
+[15:59:35]  ======================================= 
+[15:59:35]  
+[15:59:35]  
+[15:59:35]  
+[15:59:35] Loaded MySQL configuration [time: 1 ms]
+[15:59:35] [MySQL] MySQL error [time: 1 ms]
+[15:59:35] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:59:40] filterscripts = ""  (string)
+[15:59:40] 
+[15:59:40] Server Plugins
+[15:59:40] --------------
+[15:59:40]  Loading plugin: crashdetect
+[15:59:40]   crashdetect v4.5.1 is OK.
+[15:59:40]   Loaded.
+[15:59:40]  Loading plugin: streamer
+[15:59:40] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[15:59:40]   Loaded.
+[15:59:40]  Loading plugin: sscanf
+[15:59:40] 
+
+[15:59:40]  ===============================
+
+[15:59:40]       sscanf plugin loaded.     
+
+[15:59:40]          Version:  2.8.2        
+
+[15:59:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:59:40]  ===============================
+
+[15:59:40]   Loaded.
+[15:59:40]  Loading plugin: mysql.dll
+[15:59:40]  >> plugin.mysql: R39-5 successfully loaded.
+[15:59:40]   Loaded.
+[15:59:40]  Loaded 4 plugins.
+
+[15:59:40] 
+[15:59:40] Filterscripts
+[15:59:40] ---------------
+[15:59:40]   Loaded 0 filterscripts.
+
+[15:59:40]  
+[15:59:40]  
+[15:59:40]  
+[15:59:40]  ======================================= 
+[15:59:40]  |                                     | 
+[15:59:40]  |        YSI version 3.09.0684        | 
+[15:59:40]  |        By Alex "Y_Less" Cole        | 
+[15:59:40]  |                                     | 
+[15:59:40]  ======================================= 
+[15:59:40]  
+[15:59:40]  
+[15:59:40]  
+[15:59:40] Loaded MySQL configuration [time: 1 ms]
+[15:59:40] [MySQL] MySQL error [time: 1 ms]
+[15:59:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:00:15] filterscripts = ""  (string)
+[16:00:15] 
+[16:00:15] Server Plugins
+[16:00:15] --------------
+[16:00:15]  Loading plugin: crashdetect
+[16:00:15]   crashdetect v4.5.1 is OK.
+[16:00:15]   Loaded.
+[16:00:15]  Loading plugin: streamer
+[16:00:15] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:00:15]   Loaded.
+[16:00:15]  Loading plugin: sscanf
+[16:00:15] 
+
+[16:00:15]  ===============================
+
+[16:00:15]       sscanf plugin loaded.     
+
+[16:00:15]          Version:  2.8.2        
+
+[16:00:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:00:15]  ===============================
+
+[16:00:15]   Loaded.
+[16:00:15]  Loading plugin: mysql.dll
+[16:00:15]  >> plugin.mysql: R39-5 successfully loaded.
+[16:00:15]   Loaded.
+[16:00:15]  Loaded 4 plugins.
+
+[16:00:15] 
+[16:00:15] Filterscripts
+[16:00:15] ---------------
+[16:00:15]   Loaded 0 filterscripts.
+
+[16:00:15]  
+[16:00:15]  
+[16:00:15]  
+[16:00:15]  ======================================= 
+[16:00:15]  |                                     | 
+[16:00:15]  |        YSI version 3.09.0684        | 
+[16:00:15]  |        By Alex "Y_Less" Cole        | 
+[16:00:15]  |                                     | 
+[16:00:15]  ======================================= 
+[16:00:15]  
+[16:00:15]  
+[16:00:15]  
+[16:00:15] Loaded MySQL configuration [time: 1 ms]
+[16:00:15] [MySQL] MySQL error [time: 0 ms]
+[16:00:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:00:19] filterscripts = ""  (string)
+[16:00:19] 
+[16:00:19] Server Plugins
+[16:00:19] --------------
+[16:00:19]  Loading plugin: crashdetect
+[16:00:19]   crashdetect v4.5.1 is OK.
+[16:00:19]   Loaded.
+[16:00:19]  Loading plugin: streamer
+[16:00:19] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:00:19]   Loaded.
+[16:00:19]  Loading plugin: sscanf
+[16:00:19] 
+
+[16:00:19]  ===============================
+
+[16:00:19]       sscanf plugin loaded.     
+
+[16:00:19]          Version:  2.8.2        
+
+[16:00:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:00:19]  ===============================
+
+[16:00:19]   Loaded.
+[16:00:19]  Loading plugin: mysql.dll
+[16:00:19]  >> plugin.mysql: R39-5 successfully loaded.
+[16:00:19]   Loaded.
+[16:00:19]  Loaded 4 plugins.
+
+[16:00:19] 
+[16:00:19] Filterscripts
+[16:00:19] ---------------
+[16:00:19]   Loaded 0 filterscripts.
+
+[16:00:19]  
+[16:00:19]  
+[16:00:19]  
+[16:00:19]  ======================================= 
+[16:00:19]  |                                     | 
+[16:00:19]  |        YSI version 3.09.0684        | 
+[16:00:19]  |        By Alex "Y_Less" Cole        | 
+[16:00:19]  |                                     | 
+[16:00:19]  ======================================= 
+[16:00:19]  
+[16:00:19]  
+[16:00:19]  
+[16:00:19] Loaded MySQL configuration [time: 0 ms]
+[16:00:19] [MySQL] MySQL error [time: 1 ms]
+[16:00:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:01:34] filterscripts = ""  (string)
+[16:01:34] 
+[16:01:34] Server Plugins
+[16:01:34] --------------
+[16:01:34]  Loading plugin: crashdetect
+[16:01:34]   crashdetect v4.5.1 is OK.
+[16:01:34]   Loaded.
+[16:01:34]  Loading plugin: streamer
+[16:01:34] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:01:34]   Loaded.
+[16:01:34]  Loading plugin: sscanf
+[16:01:34] 
+
+[16:01:34]  ===============================
+
+[16:01:34]       sscanf plugin loaded.     
+
+[16:01:34]          Version:  2.8.2        
+
+[16:01:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:01:34]  ===============================
+
+[16:01:34]   Loaded.
+[16:01:34]  Loading plugin: mysql.dll
+[16:01:34]  >> plugin.mysql: R39-5 successfully loaded.
+[16:01:34]   Loaded.
+[16:01:34]  Loaded 4 plugins.
+
+[16:01:34] 
+[16:01:34] Filterscripts
+[16:01:34] ---------------
+[16:01:34]   Loaded 0 filterscripts.
+
+[16:01:34]  
+[16:01:34]  
+[16:01:34]  
+[16:01:34]  ======================================= 
+[16:01:34]  |                                     | 
+[16:01:34]  |        YSI version 3.09.0684        | 
+[16:01:34]  |        By Alex "Y_Less" Cole        | 
+[16:01:34]  |                                     | 
+[16:01:34]  ======================================= 
+[16:01:34]  
+[16:01:34]  
+[16:01:34]  
+[16:01:34] Loaded MySQL configuration [time: 0 ms]
+[16:01:34] [MySQL] MySQL error [time: 1 ms]
+[16:01:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:02:25] filterscripts = ""  (string)
+[16:02:25] 
+[16:02:25] Server Plugins
+[16:02:25] --------------
+[16:02:25]  Loading plugin: crashdetect
+[16:02:25]   crashdetect v4.5.1 is OK.
+[16:02:25]   Loaded.
+[16:02:25]  Loading plugin: streamer
+[16:02:25] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:02:25]   Loaded.
+[16:02:25]  Loading plugin: sscanf
+[16:02:25] 
+
+[16:02:25]  ===============================
+
+[16:02:25]       sscanf plugin loaded.     
+
+[16:02:25]          Version:  2.8.2        
+
+[16:02:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:02:25]  ===============================
+
+[16:02:25]   Loaded.
+[16:02:25]  Loading plugin: mysql.dll
+[16:02:25]  >> plugin.mysql: R39-5 successfully loaded.
+[16:02:25]   Loaded.
+[16:02:25]  Loaded 4 plugins.
+
+[16:02:25] 
+[16:02:25] Filterscripts
+[16:02:25] ---------------
+[16:02:25]   Loaded 0 filterscripts.
+
+[16:02:25]  
+[16:02:25]  
+[16:02:25]  
+[16:02:25]  ======================================= 
+[16:02:25]  |                                     | 
+[16:02:25]  |        YSI version 3.09.0684        | 
+[16:02:25]  |        By Alex "Y_Less" Cole        | 
+[16:02:25]  |                                     | 
+[16:02:25]  ======================================= 
+[16:02:25]  
+[16:02:25]  
+[16:02:25]  
+[16:02:25] Loaded MySQL configuration [time: 1 ms]
+[16:02:25] [MySQL] MySQL error [time: 1 ms]
+[16:02:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:03:44] filterscripts = ""  (string)
+[16:03:44] 
+[16:03:44] Server Plugins
+[16:03:44] --------------
+[16:03:44]  Loading plugin: crashdetect
+[16:03:44]   crashdetect v4.5.1 is OK.
+[16:03:44]   Loaded.
+[16:03:44]  Loading plugin: streamer
+[16:03:44] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:03:44]   Loaded.
+[16:03:44]  Loading plugin: sscanf
+[16:03:44] 
+
+[16:03:44]  ===============================
+
+[16:03:44]       sscanf plugin loaded.     
+
+[16:03:44]          Version:  2.8.2        
+
+[16:03:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:03:44]  ===============================
+
+[16:03:44]   Loaded.
+[16:03:44]  Loading plugin: mysql.dll
+[16:03:44]  >> plugin.mysql: R39-5 successfully loaded.
+[16:03:44]   Loaded.
+[16:03:44]  Loaded 4 plugins.
+
+[16:03:44] 
+[16:03:44] Filterscripts
+[16:03:44] ---------------
+[16:03:44]   Loaded 0 filterscripts.
+
+[16:03:44]  
+[16:03:44]  
+[16:03:44]  
+[16:03:44]  ======================================= 
+[16:03:44]  |                                     | 
+[16:03:44]  |        YSI version 3.09.0684        | 
+[16:03:44]  |        By Alex "Y_Less" Cole        | 
+[16:03:44]  |                                     | 
+[16:03:44]  ======================================= 
+[16:03:44]  
+[16:03:44]  
+[16:03:44]  
+[16:03:44] Loaded MySQL configuration [time: 0 ms]
+[16:03:44] [MySQL] MySQL error [time: 1 ms]
+[16:03:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:16:30] filterscripts = ""  (string)
+[16:16:30] 
+[16:16:30] Server Plugins
+[16:16:30] --------------
+[16:16:30]  Loading plugin: crashdetect
+[16:16:31]   crashdetect v4.5.1 is OK.
+[16:16:31]   Loaded.
+[16:16:31]  Loading plugin: streamer
+[16:16:31] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:16:31]   Loaded.
+[16:16:31]  Loading plugin: sscanf
+[16:16:31] 
+
+[16:16:31]  ===============================
+
+[16:16:31]       sscanf plugin loaded.     
+
+[16:16:31]          Version:  2.8.2        
+
+[16:16:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:16:31]  ===============================
+
+[16:16:31]   Loaded.
+[16:16:31]  Loading plugin: mysql.dll
+[16:16:31]  >> plugin.mysql: R39-5 successfully loaded.
+[16:16:31]   Loaded.
+[16:16:31]  Loaded 4 plugins.
+
+[16:16:31] 
+[16:16:31] Filterscripts
+[16:16:31] ---------------
+[16:16:31]   Loaded 0 filterscripts.
+
+[16:16:31]  
+[16:16:31]  
+[16:16:31]  
+[16:16:31]  ======================================= 
+[16:16:31]  |                                     | 
+[16:16:31]  |        YSI version 3.09.0684        | 
+[16:16:31]  |        By Alex "Y_Less" Cole        | 
+[16:16:31]  |                                     | 
+[16:16:31]  ======================================= 
+[16:16:31]  
+[16:16:31]  
+[16:16:31]  
+[16:16:31] Loaded MySQL configuration [time: 0 ms]
+[16:16:31] [MySQL] MySQL error [time: 1 ms]
+[16:16:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:16:44] filterscripts = ""  (string)
+[16:16:44] 
+[16:16:44] Server Plugins
+[16:16:44] --------------
+[16:16:44]  Loading plugin: crashdetect
+[16:16:44]   crashdetect v4.5.1 is OK.
+[16:16:44]   Loaded.
+[16:16:44]  Loading plugin: streamer
+[16:16:44] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:16:44]   Loaded.
+[16:16:44]  Loading plugin: sscanf
+[16:16:44] 
+
+[16:16:44]  ===============================
+
+[16:16:44]       sscanf plugin loaded.     
+
+[16:16:44]          Version:  2.8.2        
+
+[16:16:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:16:44]  ===============================
+
+[16:16:44]   Loaded.
+[16:16:44]  Loading plugin: mysql.dll
+[16:16:44]  >> plugin.mysql: R39-5 successfully loaded.
+[16:16:44]   Loaded.
+[16:16:44]  Loaded 4 plugins.
+
+[16:16:44] 
+[16:16:44] Filterscripts
+[16:16:44] ---------------
+[16:16:44]   Loaded 0 filterscripts.
+
+[16:16:45]  
+[16:16:45]  
+[16:16:45]  
+[16:16:45]  ======================================= 
+[16:16:45]  |                                     | 
+[16:16:45]  |        YSI version 3.09.0684        | 
+[16:16:45]  |        By Alex "Y_Less" Cole        | 
+[16:16:45]  |                                     | 
+[16:16:45]  ======================================= 
+[16:16:45]  
+[16:16:45]  
+[16:16:45]  
+[16:16:45] Loaded MySQL configuration [time: 1 ms]
+[16:16:45] [MySQL] MySQL error [time: 1 ms]
+[16:16:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:17:01] filterscripts = ""  (string)
+[16:17:01] 
+[16:17:01] Server Plugins
+[16:17:01] --------------
+[16:17:01]  Loading plugin: crashdetect
+[16:17:01]   crashdetect v4.5.1 is OK.
+[16:17:01]   Loaded.
+[16:17:01]  Loading plugin: streamer
+[16:17:01] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:17:01]   Loaded.
+[16:17:01]  Loading plugin: sscanf
+[16:17:01] 
+
+[16:17:01]  ===============================
+
+[16:17:01]       sscanf plugin loaded.     
+
+[16:17:01]          Version:  2.8.2        
+
+[16:17:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:17:01]  ===============================
+
+[16:17:01]   Loaded.
+[16:17:01]  Loading plugin: mysql.dll
+[16:17:01]  >> plugin.mysql: R39-5 successfully loaded.
+[16:17:01]   Loaded.
+[16:17:01]  Loaded 4 plugins.
+
+[16:17:01] 
+[16:17:01] Filterscripts
+[16:17:01] ---------------
+[16:17:01]   Loaded 0 filterscripts.
+
+[16:17:01]  
+[16:17:01]  
+[16:17:01]  
+[16:17:01]  ======================================= 
+[16:17:01]  |                                     | 
+[16:17:01]  |        YSI version 3.09.0684        | 
+[16:17:01]  |        By Alex "Y_Less" Cole        | 
+[16:17:01]  |                                     | 
+[16:17:01]  ======================================= 
+[16:17:01]  
+[16:17:01]  
+[16:17:01]  
+[16:17:01] Loaded MySQL configuration [time: 0 ms]
+[16:17:01] [MySQL] MySQL error [time: 1 ms]
+[16:17:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:17:29] filterscripts = ""  (string)
+[16:17:29] 
+[16:17:29] Server Plugins
+[16:17:29] --------------
+[16:17:29]  Loading plugin: crashdetect
+[16:17:29]   crashdetect v4.5.1 is OK.
+[16:17:29]   Loaded.
+[16:17:29]  Loading plugin: streamer
+[16:17:29] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:17:29]   Loaded.
+[16:17:29]  Loading plugin: sscanf
+[16:17:29] 
+
+[16:17:29]  ===============================
+
+[16:17:29]       sscanf plugin loaded.     
+
+[16:17:29]          Version:  2.8.2        
+
+[16:17:29]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:17:29]  ===============================
+
+[16:17:29]   Loaded.
+[16:17:29]  Loading plugin: mysql.dll
+[16:17:29]  >> plugin.mysql: R39-5 successfully loaded.
+[16:17:29]   Loaded.
+[16:17:29]  Loaded 4 plugins.
+
+[16:17:29] 
+[16:17:29] Filterscripts
+[16:17:29] ---------------
+[16:17:29]   Loaded 0 filterscripts.
+
+[16:17:29]  
+[16:17:29]  
+[16:17:29]  
+[16:17:29]  ======================================= 
+[16:17:29]  |                                     | 
+[16:17:29]  |        YSI version 3.09.0684        | 
+[16:17:29]  |        By Alex "Y_Less" Cole        | 
+[16:17:29]  |                                     | 
+[16:17:29]  ======================================= 
+[16:17:29]  
+[16:17:29]  
+[16:17:29]  
+[16:17:29] Loaded MySQL configuration [time: 0 ms]
+[16:17:29] [MySQL] MySQL error [time: 1 ms]
+[16:17:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:18:10] filterscripts = ""  (string)
+[16:18:10] 
+[16:18:10] Server Plugins
+[16:18:10] --------------
+[16:18:10]  Loading plugin: crashdetect
+[16:18:10]   crashdetect v4.5.1 is OK.
+[16:18:10]   Loaded.
+[16:18:10]  Loading plugin: streamer
+[16:18:10] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:18:10]   Loaded.
+[16:18:10]  Loading plugin: sscanf
+[16:18:10] 
+
+[16:18:10]  ===============================
+
+[16:18:10]       sscanf plugin loaded.     
+
+[16:18:10]          Version:  2.8.2        
+
+[16:18:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:18:10]  ===============================
+
+[16:18:10]   Loaded.
+[16:18:10]  Loading plugin: mysql.dll
+[16:18:10]  >> plugin.mysql: R39-5 successfully loaded.
+[16:18:10]   Loaded.
+[16:18:10]  Loaded 4 plugins.
+
+[16:18:10] 
+[16:18:10] Filterscripts
+[16:18:10] ---------------
+[16:18:10]   Loaded 0 filterscripts.
+
+[16:18:10]  
+[16:18:10]  
+[16:18:10]  
+[16:18:10]  ======================================= 
+[16:18:10]  |                                     | 
+[16:18:10]  |        YSI version 3.09.0684        | 
+[16:18:10]  |        By Alex "Y_Less" Cole        | 
+[16:18:10]  |                                     | 
+[16:18:10]  ======================================= 
+[16:18:10]  
+[16:18:10]  
+[16:18:11]  
+[16:18:11] Loaded MySQL configuration [time: 0 ms]
+[16:18:11] [MySQL] MySQL error [time: 0 ms]
+[16:18:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:22:30] filterscripts = ""  (string)
+[16:22:30] 
+[16:22:30] Server Plugins
+[16:22:30] --------------
+[16:22:30]  Loading plugin: crashdetect
+[16:22:30]   crashdetect v4.5.1 is OK.
+[16:22:30]   Loaded.
+[16:22:30]  Loading plugin: streamer
+[16:22:30] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:22:30]   Loaded.
+[16:22:30]  Loading plugin: sscanf
+[16:22:30] 
+
+[16:22:30]  ===============================
+
+[16:22:30]       sscanf plugin loaded.     
+
+[16:22:30]          Version:  2.8.2        
+
+[16:22:30]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:22:30]  ===============================
+
+[16:22:30]   Loaded.
+[16:22:30]  Loading plugin: mysql.dll
+[16:22:30]  >> plugin.mysql: R39-5 successfully loaded.
+[16:22:30]   Loaded.
+[16:22:30]  Loaded 4 plugins.
+
+[16:22:31] 
+[16:22:31] Filterscripts
+[16:22:31] ---------------
+[16:22:31]   Loaded 0 filterscripts.
+
+[16:22:31]  
+[16:22:31]  
+[16:22:31]  
+[16:22:31]  ======================================= 
+[16:22:31]  |                                     | 
+[16:22:31]  |        YSI version 3.09.0684        | 
+[16:22:31]  |        By Alex "Y_Less" Cole        | 
+[16:22:31]  |                                     | 
+[16:22:31]  ======================================= 
+[16:22:31]  
+[16:22:31]  
+[16:22:31]  
+[16:22:31] Loaded MySQL configuration [time: 1 ms]
+[16:22:31] [MySQL] MySQL error [time: 1 ms]
+[16:22:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:34:59] filterscripts = ""  (string)
+[16:34:59] 
+[16:34:59] Server Plugins
+[16:34:59] --------------
+[16:34:59]  Loading plugin: crashdetect
+[16:34:59]   crashdetect v4.5.1 is OK.
+[16:34:59]   Loaded.
+[16:34:59]  Loading plugin: streamer
+[16:34:59] 
+
+*** Streamer Plugin v2.8.2 by Incognito loaded ***
+
+[16:34:59]   Loaded.
+[16:34:59]  Loading plugin: sscanf
+[16:34:59] 
+
+[16:34:59]  ===============================
+
+[16:34:59]       sscanf plugin loaded.     
+
+[16:34:59]          Version:  2.8.2        
+
+[16:34:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[16:34:59]  ===============================
+
+[16:34:59]   Loaded.
+[16:34:59]  Loading plugin: mysql
+[16:34:59]  >> plugin.mysql: R39-5 successfully loaded.
+[16:34:59]   Loaded.
+[16:34:59]  Loaded 4 plugins.
+
+[16:34:59] 
+[16:34:59] Filterscripts
+[16:34:59] ---------------
+[16:34:59]   Loaded 0 filterscripts.
+
+[16:34:59]  
+[16:34:59]  
+[16:34:59]  
+[16:34:59]  ======================================= 
+[16:34:59]  |                                     | 
+[16:34:59]  |        YSI version 3.09.0684        | 
+[16:34:59]  |        By Alex "Y_Less" Cole        | 
+[16:34:59]  |                                     | 
+[16:34:59]  ======================================= 
+[16:34:59]  
+[16:34:59]  
+[16:34:59]  
+[16:34:59] Loaded MySQL configuration [time: 0 ms]
+[16:34:59] [MySQL] MySQL error [time: 0 ms]
+[16:34:59] Number of vehicle models: 0
